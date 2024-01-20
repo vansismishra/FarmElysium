@@ -19,48 +19,6 @@ Maharashtra,Ahmednagar,2014,Rabi,Maize,29400.0,57600.0
 Maharashtra,Ahmednagar,2014,Rabi,Wheat,57200.0,85000.0
 Maharashtra,Ahmednagar,2014,Kharif,Maize,200.0,400.0
 Maharashtra,Ahmednagar,2014,Whole year,Sugarcane,122000.0,11761000.0
-Maharashtra,Akola,2012,Kharif,Maize,500.0,1100.0
-Maharashtra,Akola,2012,Kharif,Urad,11800.0,3800.0
-Maharashtra,Akola,2012,Rabi,Wheat,19900.0,33900.0
-Maharashtra,Akola,2013,Kharif,Maize,100.0,300.0
-Maharashtra,Akola,2013,Kharif,Urad,12400.0,2800.0
-Maharashtra,Akola,2013,Rabi,Wheat,19900.0,25200.0
-Maharashtra,Akola,2014,Kharif,Maize,100.0,200.0
-Maharashtra,Akola,2014,Rabi,Wheat,18300.0,25800.0
-Maharashtra,Amravati,2012,Kharif,Maize,1200.0,2700.0
-Maharashtra,Amravati,2012,Kharif,Rice,3800.0,1500.0
-Maharashtra,Amravati,2012,Kharif,Urad,6300.0,2400.0
-Maharashtra,Amravati,2012,Rabi,Wheat,36100.0,71500.0
-Maharashtra,Amravati,2012,Kharif,Maize,1400.0,1800.0
-Maharashtra,Amravati,2012,Whole year,Sugarcane,300.0,16700.0
-Maharashtra,Amravati,2013,Kharif,Maize,1000.0,2900.0
-Maharashtra,Amravati,2013,Kharif,Rice,4700.0,800.0
-Maharashtra,Amravati,2013,Kharif,Urad,4800.0,1300.0
-Maharashtra,Amravati,2013,Rabi,Wheat,42000.0,65000.0
-Maharashtra,Amravati,2013,Kharif,Maize,300.0,400.0
-Maharashtra,Amravati,2013,Whole year,Sugarcane,300.0,21700.0
-Maharashtra,Amravati,2014,Kharif,Maize,800.0,1500.0
-Maharashtra,Amravati,2014,Kharif,Rice,5300.0,1600.0
-Maharashtra,Amravati,2014,Rabi,Maize,1800.0,300.0
-Maharashtra,Amravati,2014,Rabi,Wheat,66400.0,87200.0
-Maharashtra,Amravati,2014,Whole year,Sugarcane,400.0,16100.0
-Maharashtra,Aurangabad,2012,Kharif,Maize,144200.0,291100.0
-Maharashtra,Aurangabad,2012,Kharif,Urad,1400.0,500.0
-Maharashtra,Aurangabad,2012,Rabi,Maize,5300.0,3500.0
-Maharashtra,Aurangabad,2012,Rabi,Wheat,24300.0,21500.0
-Maharashtra,Aurangabad,2012,Kharif,Maize,500.0,700.0
-Maharashtra,Aurangabad,2012,Whole year,Sugarcane,14800.0,630900.0
-Maharashtra,Aurangabad,2013,Kharif,Maize,167900.0,759800.0
-Maharashtra,Aurangabad,2013,Kharif,Urad,1900.0,2200.0
-Maharashtra,Aurangabad,2013,Rabi,Maize,6400.0,22100.0
-Maharashtra,Aurangabad,2013,Rabi,Wheat,35400.0,54200.0
-Maharashtra,Aurangabad,2013,Kharif,Maize,1100.0,1400.0
-Maharashtra,Aurangabad,2013,Whole year,Sugarcane,14600.0,1170600.0
-Maharashtra,Aurangabad,2014,Kharif,Maize,191700.0,175800.0
-Maharashtra,Aurangabad,2014,Rabi,Maize,9000.0,11400.0
-Maharashtra,Aurangabad,2014,Rabi,Wheat,35400.0,33900.0
-Maharashtra,Aurangabad,2014,Kharif,Maize,3400.0,1500.0
-Maharashtra,Aurangabad,2014,Whole year,Sugarcane,13900.0,932200.0
 Maharashtra,Beed,2012,Kharif,Maize,4600.0,3600.0
 Maharashtra,Beed,2012,Kharif,Rice,600.0,300.0
 Maharashtra,Beed,2012,Kharif,Urad,10300.0,2100.0
@@ -81,50 +39,6 @@ Maharashtra,Beed,2014,Rabi,Maize,8500.0,5900.0
 Maharashtra,Beed,2014,Rabi,Wheat,59100.0,40000.0
 Maharashtra,Beed,2014,Kharif,Maize,1300.0,600.0
 Maharashtra,Beed,2014,Whole year,Sugarcane,37600.0,1723500.0
-Maharashtra,Bhandara,2012,Kharif,Rice,177200.0,360500.0
-Maharashtra,Bhandara,2012,Kharif,Urad,100.0,100.0
-Maharashtra,Bhandara,2012,Rabi,Wheat,11800.0,14700.0
-Maharashtra,Bhandara,2012,Kharif,Rice,7100.0,18700.0
-Maharashtra,Bhandara,2012,Whole year,Sugarcane,2900.0,191300.0
-Maharashtra,Bhandara,2013,Kharif,Rice,186200.0,303500.0
-Maharashtra,Bhandara,2013,Kharif,Urad,100.0,40.0
-Maharashtra,Bhandara,2013,Rabi,Wheat,11900.0,13600.0
-Maharashtra,Bhandara,2013,Kharif,Rice,8400.0,20770.0
-Maharashtra,Bhandara,2013,Whole year,Sugarcane,600.0,36100.0
-Maharashtra,Bhandara,2014,Kharif,Rice,188600.0,305400.0
-Maharashtra,Bhandara,2014,Rabi,Wheat,11400.0,13900.0
-Maharashtra,Bhandara,2014,Kharif,Rice,7600.0,17400.0
-Maharashtra,Bhandara,2014,Whole year,Sugarcane,6700.0,490800.0
-Maharashtra,Buldhana,2012,Kharif,Maize,15600.0,35000.0
-Maharashtra,Buldhana,2012,Kharif,Urad,43000.0,27600.0
-Maharashtra,Buldhana,2012,Rabi,Maize,6900.0,5100.0
-Maharashtra,Buldhana,2012,Rabi,Wheat,36100.0,53600.0
-Maharashtra,Buldhana,2012,Whole year,Sugarcane,100.0,4400.0
-Maharashtra,Buldhana,2013,Kharif,Maize,15000.0,42900.0
-Maharashtra,Buldhana,2013,Kharif,Urad,40600.0,21800.0
-Maharashtra,Buldhana,2013,Rabi,Maize,16600.0,41900.0
-Maharashtra,Buldhana,2013,Rabi,Wheat,59000.0,73900.0
-Maharashtra,Buldhana,2013,Kharif,Maize,1800.0,2600.0
-Maharashtra,Buldhana,2013,Whole year,Sugarcane,100.0,8100.0
-Maharashtra,Buldhana,2014,Kharif,Maize,30000.0,54400.0
-Maharashtra,Buldhana,2014,Rabi,Maize,17200.0,2700.0
-Maharashtra,Buldhana,2014,Rabi,Wheat,73500.0,95500.0
-Maharashtra,Buldhana,2014,Kharif,Maize,1700.0,3000.0
-Maharashtra,Buldhana,2014,Whole year,Sugarcane,300.0,18700.0
-Maharashtra,Chandrapur,2012,Kharif,Rice,158200.0,250500.0
-Maharashtra,Chandrapur,2012,Kharif,Urad,200.0,100.0
-Maharashtra,Chandrapur,2012,Rabi,Wheat,22400.0,26700.0
-Maharashtra,Chandrapur,2012,Kharif,Maize,100.0,100.0
-Maharashtra,Chandrapur,2012,Kharif,Rice,2600.0,5400.0
-Maharashtra,Chandrapur,2013,Kharif,Rice,160200.0,211300.0
-Maharashtra,Chandrapur,2013,Kharif,Urad,200.0,100.0
-Maharashtra,Chandrapur,2013,Rabi,Wheat,25600.0,28600.0
-Maharashtra,Chandrapur,2013,Kharif,Rice,3200.0,6900.0
-Maharashtra,Chandrapur,2014,Kharif,Rice,141800.0,106700.0
-Maharashtra,Chandrapur,2014,Rabi,Wheat,24200.0,17800.0
-Maharashtra,Chandrapur,2014,Kharif,Maize,100.0,100.0
-Maharashtra,Chandrapur,2014,Kharif,Rice,4000.0,6800.0
-Maharashtra,Chandrapur,2014,Whole year,Sugarcane,100.0,9000.0
 Maharashtra,Dhule,2012,Kharif,Maize,61800.0,159700.0
 Maharashtra,Dhule,2012,Kharif,Rice,7700.0,7400.0
 Maharashtra,Dhule,2012,Kharif,Urad,5300.0,2600.0
@@ -145,33 +59,14 @@ Maharashtra,Dhule,2014,Rabi,Maize,10400.0,37400.0
 Maharashtra,Dhule,2014,Rabi,Wheat,36000.0,65700.0
 Maharashtra,Dhule,2014,Kharif,Maize,600.0,600.0
 Maharashtra,Dhule,2014,Whole year,Sugarcane,7000.0,438400.0
-Maharashtra,Gadchiroli,2012,Kharif,Maize,1900.0,4300.0
-Maharashtra,Gadchiroli,2012,Kharif,Rice,151400.0,228800.0
-Maharashtra,Gadchiroli,2012,Rabi,Maize,900.0,700.0
-Maharashtra,Gadchiroli,2012,Rabi,Wheat,500.0,600.0
-Maharashtra,Gadchiroli,2012,Kharif,Maize,500.0,500.0
-Maharashtra,Gadchiroli,2012,Kharif,Rice,2900.0,6200.0
-Maharashtra,Gadchiroli,2013,Kharif,Maize,1700.0,4900.0
-Maharashtra,Gadchiroli,2013,Kharif,Rice,153000.0,225600.0
-Maharashtra,Gadchiroli,2013,Rabi,Maize,1000.0,2500.0
-Maharashtra,Gadchiroli,2013,Rabi,Wheat,500.0,700.0
-Maharashtra,Gadchiroli,2013,Kharif,Rice,3000.0,6400.0
-Maharashtra,Gadchiroli,2014,Kharif,Maize,1500.0,2700.0
-Maharashtra,Gadchiroli,2014,Kharif,Rice,152800.0,201600.0
-Maharashtra,Gadchiroli,2014,Rabi,Maize,300.0,
-Maharashtra,Gadchiroli,2014,Rabi,Wheat,1200.0,1200.0
-Maharashtra,Gadchiroli,2014,Kharif,Rice,2900.0,4500.0
-Maharashtra,Gadchiroli,2014,Whole year,Sugarcane,100.0,9900.0
-Maharashtra,Gondia,2012,Kharif,Maize,100.0,100.0
 Maharashtra,Gondia,2012,Kharif,Rice,177500.0,334600.0
 Maharashtra,Gondia,2012,Kharif,Urad,100.0,100.0
 Maharashtra,Gondia,2012,Rabi,Wheat,1900.0,1800.0
-Maharashtra,Gondia,2012,Kharif,Maize,100.0,100.0
 Maharashtra,Gondia,2012,Kharif,Rice,8900.0,21300.0
 Maharashtra,Gondia,2012,Whole year,Sugarcane,200.0,16600.0
 Maharashtra,Gondia,2013,Kharif,Maize,100.0,300.0
 Maharashtra,Gondia,2013,Kharif,Rice,188100.0,292500.0
-Maharashtra,Gondia,2013,Kharif,Urad,100.0,
+Maharashtra,Gondia,2013,Kharif,Urad,100.0,0.0
 Maharashtra,Gondia,2013,Rabi,Wheat,1700.0,1100.0
 Maharashtra,Gondia,2013,Kharif,Rice,13400.0,32820.0
 Maharashtra,Gondia,2013,Whole year,Sugarcane,300.0,21500.0
@@ -181,55 +76,6 @@ Maharashtra,Gondia,2014,Rabi,Wheat,2400.0,1500.0
 Maharashtra,Gondia,2014,Kharif,Maize,200.0,200.0
 Maharashtra,Gondia,2014,Kharif,Rice,12900.0,36100.0
 Maharashtra,Gondia,2014,Whole year,Sugarcane,1500.0,97000.0
-Maharashtra,Hingoli,2012,Kharif,Maize,600.0,600.0
-Maharashtra,Hingoli,2012,Kharif,Rice,600.0,200.0
-Maharashtra,Hingoli,2012,Kharif,Urad,8600.0,6000.0
-Maharashtra,Hingoli,2012,Rabi,Maize,200.0,100.0
-Maharashtra,Hingoli,2012,Rabi,Wheat,37600.0,52300.0
-Maharashtra,Hingoli,2012,Kharif,Maize,200.0,300.0
-Maharashtra,Hingoli,2012,Whole year,Sugarcane,9000.0,678500.0
-Maharashtra,Hingoli,2013,Kharif,Maize,400.0,500.0
-Maharashtra,Hingoli,2013,Kharif,Urad,8800.0,4900.0
-Maharashtra,Hingoli,2013,Rabi,Maize,400.0,1000.0
-Maharashtra,Hingoli,2013,Rabi,Wheat,77200.0,74200.0
-Maharashtra,Hingoli,2013,Kharif,Maize,1200.0,1600.0
-Maharashtra,Hingoli,2013,Whole year,Sugarcane,7200.0,516500.0
-Maharashtra,Hingoli,2014,Kharif,Maize,1300.0,500.0
-Maharashtra,Hingoli,2014,Rabi,Maize,500.0,100.0
-Maharashtra,Hingoli,2014,Rabi,Wheat,49500.0,33000.0
-Maharashtra,Hingoli,2014,Kharif,Maize,1600.0,1000.0
-Maharashtra,Hingoli,2014,Whole year,Sugarcane,15200.0,855700.0
-Maharashtra,Jalgaon,2012,Kharif,Maize,70600.0,188600.0
-Maharashtra,Jalgaon,2012,Kharif,Urad,45000.0,22900.0
-Maharashtra,Jalgaon,2012,Rabi,Maize,11600.0,31600.0
-Maharashtra,Jalgaon,2012,Rabi,Wheat,25300.0,53000.0
-Maharashtra,Jalgaon,2012,Whole year,Sugarcane,11000.0,759100.0
-Maharashtra,Jalgaon,2013,Kharif,Maize,70700.0,270500.0
-Maharashtra,Jalgaon,2013,Kharif,Urad,45100.0,34400.0
-Maharashtra,Jalgaon,2013,Rabi,Maize,11600.0,26100.0
-Maharashtra,Jalgaon,2013,Rabi,Wheat,25300.0,64800.0
-Maharashtra,Jalgaon,2013,Kharif,Maize,5200.0,8000.0
-Maharashtra,Jalgaon,2013,Whole year,Sugarcane,11700.0,883200.0
-Maharashtra,Jalgaon,2014,Kharif,Maize,94600.0,235100.0
-Maharashtra,Jalgaon,2014,Rabi,Maize,50100.0,188200.0
-Maharashtra,Jalgaon,2014,Rabi,Wheat,49600.0,81100.0
-Maharashtra,Jalgaon,2014,Kharif,Maize,9400.0,23500.0
-Maharashtra,Jalgaon,2014,Whole year,Sugarcane,7900.0,553600.0
-Maharashtra,Jalna,2012,Kharif,Maize,62900.0,111000.0
-Maharashtra,Jalna,2012,Kharif,Urad,10400.0,1500.0
-Maharashtra,Jalna,2012,Rabi,Maize,2300.0,3600.0
-Maharashtra,Jalna,2012,Rabi,Wheat,6500.0,2900.0
-Maharashtra,Jalna,2012,Whole year,Sugarcane,12800.0,802600.0
-Maharashtra,Jalna,2013,Kharif,Maize,73500.0,196400.0
-Maharashtra,Jalna,2013,Kharif,Urad,9500.0,5800.0
-Maharashtra,Jalna,2013,Rabi,Maize,7500.0,16400.0
-Maharashtra,Jalna,2013,Rabi,Wheat,9800.0,13700.0
-Maharashtra,Jalna,2013,Kharif,Maize,2300.0,1200.0
-Maharashtra,Jalna,2013,Whole year,Sugarcane,13500.0,972300.0
-Maharashtra,Jalna,2014,Kharif,Maize,57600.0,32200.0
-Maharashtra,Jalna,2014,Rabi,Wheat,1900.0,1500.0
-Maharashtra,Jalna,2014,Kharif,Maize,200.0,100.0
-Maharashtra,Jalna,2014,Whole year,Sugarcane,21100.0,1007500.0
 Maharashtra,Kolhapur,2012,Kharif,Maize,1700.0,2700.0
 Maharashtra,Kolhapur,2012,Kharif,Rice,107800.0,282200.0
 Maharashtra,Kolhapur,2012,Kharif,Urad,1400.0,300.0
@@ -252,24 +98,6 @@ Maharashtra,Kolhapur,2014,Rabi,Wheat,6800.0,15100.0
 Maharashtra,Kolhapur,2014,Kharif,Maize,100.0,300.0
 Maharashtra,Kolhapur,2014,Kharif,Rice,900.0,3400.0
 Maharashtra,Kolhapur,2014,Whole year,Sugarcane,146300.0,15031600.0
-Maharashtra,Latur,2012,Kharif,Maize,6800.0,14300.0
-Maharashtra,Latur,2012,Kharif,Rice,8300.0,5000.0
-Maharashtra,Latur,2012,Kharif,Urad,14700.0,11400.0
-Maharashtra,Latur,2012,Rabi,Maize,2200.0,3800.0
-Maharashtra,Latur,2012,Rabi,Wheat,31000.0,47300.0
-Maharashtra,Latur,2012,Whole year,Sugarcane,46400.0,3051100.0
-Maharashtra,Latur,2013,Kharif,Maize,7100.0,18500.0
-Maharashtra,Latur,2013,Kharif,Rice,7600.0,5100.0
-Maharashtra,Latur,2013,Kharif,Urad,13000.0,12100.0
-Maharashtra,Latur,2013,Rabi,Maize,3200.0,7500.0
-Maharashtra,Latur,2013,Rabi,Wheat,35200.0,44900.0
-Maharashtra,Latur,2013,Kharif,Maize,500.0,600.0
-Maharashtra,Latur,2013,Whole year,Sugarcane,41500.0,2902800.0
-Maharashtra,Latur,2014,Kharif,Maize,6700.0,4100.0
-Maharashtra,Latur,2014,Kharif,Rice,5800.0,1100.0
-Maharashtra,Latur,2014,Rabi,Maize,2000.0,1100.0
-Maharashtra,Latur,2014,Rabi,Wheat,47200.0,10800.0
-Maharashtra,Latur,2014,Whole year,Sugarcane,46400.0,2354600.0
 Maharashtra,Nagpur,2012,Kharif,Maize,400.0,900.0
 Maharashtra,Nagpur,2012,Kharif,Rice,67000.0,100200.0
 Maharashtra,Nagpur,2012,Kharif,Urad,1800.0,800.0
@@ -367,7 +195,6 @@ Maharashtra,Osmanabad,2014,Rabi,Maize,2700.0,1600.0
 Maharashtra,Osmanabad,2014,Rabi,Wheat,24100.0,7100.0
 Maharashtra,Osmanabad,2014,Kharif,Maize,1300.0,800.0
 Maharashtra,Osmanabad,2014,Whole year,Sugarcane,39800.0,1592200.0
-Maharashtra,Palghar,2014,Kharif,Rice,74800.0,188300.0
 Maharashtra,Parbhani,2012,Kharif,Maize,1900.0,1800.0
 Maharashtra,Parbhani,2012,Kharif,Rice,1400.0,100.0
 Maharashtra,Parbhani,2012,Kharif,Urad,13000.0,6600.0
@@ -383,7 +210,7 @@ Maharashtra,Parbhani,2013,Rabi,Wheat,20900.0,23300.0
 Maharashtra,Parbhani,2013,Kharif,Maize,800.0,800.0
 Maharashtra,Parbhani,2013,Whole year,Sugarcane,35900.0,2549700.0
 Maharashtra,Parbhani,2014,Kharif,Maize,1500.0,600.0
-Maharashtra,Parbhani,2014,Kharif,Rice,300.0,
+Maharashtra,Parbhani,2014,Kharif,Rice,300.0,0.0
 Maharashtra,Parbhani,2014,Rabi,Wheat,22300.0,18800.0
 Maharashtra,Parbhani,2014,Kharif,Maize,400.0,300.0
 Maharashtra,Parbhani,2014,Whole year,Sugarcane,26600.0,1577200.0
@@ -407,19 +234,6 @@ Maharashtra,Pune,2014,Rabi,Maize,21600.0,77300.0
 Maharashtra,Pune,2014,Rabi,Wheat,71800.0,108300.0
 Maharashtra,Pune,2014,Kharif,Maize,1100.0,1600.0
 Maharashtra,Pune,2014,Whole year,Sugarcane,127800.0,13833900.0
-Maharashtra,Raigad,2012,Kharif,Rice,124100.0,323000.0
-Maharashtra,Raigad,2012,Kharif,Urad,700.0,500.0
-Maharashtra,Raigad,2012,Kharif,Rice,3800.0,10300.0
-Maharashtra,Raigad,2013,Kharif,Rice,124100.0,355100.0
-Maharashtra,Raigad,2013,Kharif,Urad,200.0,100.0
-Maharashtra,Raigad,2013,Kharif,Rice,3800.0,10800.0
-Maharashtra,Raigad,2014,Kharif,Rice,116200.0,320700.0
-Maharashtra,Raigad,2014,Kharif,Rice,9100.0,30100.0
-Maharashtra,Ratnagiri,2012,Kharif,Rice,73800.0,214800.0
-Maharashtra,Ratnagiri,2012,Kharif,Urad,300.0,200.0
-Maharashtra,Ratnagiri,2012,Kharif,Rice,100.0,200.0
-Maharashtra,Ratnagiri,2013,Kharif,Rice,72100.0,213200.0
-Maharashtra,Ratnagiri,2014,Kharif,Rice,72500.0,220500.0
 Maharashtra,Sangli,2012,Kharif,Maize,17900.0,32400.0
 Maharashtra,Sangli,2012,Kharif,Rice,17500.0,33700.0
 Maharashtra,Sangli,2012,Kharif,Urad,5500.0,1000.0
@@ -459,16 +273,6 @@ Maharashtra,Satara,2014,Rabi,Maize,11700.0,24800.0
 Maharashtra,Satara,2014,Rabi,Wheat,38300.0,61400.0
 Maharashtra,Satara,2014,Kharif,Maize,2700.0,4300.0
 Maharashtra,Satara,2014,Whole year,Sugarcane,70000.0,6927400.0
-Maharashtra,Sindhudurg,2012,Kharif,Rice,74200.0,207000.0
-Maharashtra,Sindhudurg,2012,Kharif,Urad,300.0,200.0
-Maharashtra,Sindhudurg,2012,Kharif,Rice,2600.0,6200.0
-Maharashtra,Sindhudurg,2013,Kharif,Rice,74200.0,232800.0
-Maharashtra,Sindhudurg,2013,Kharif,Urad,300.0,200.0
-Maharashtra,Sindhudurg,2013,Kharif,Rice,2600.0,5600.0
-Maharashtra,Sindhudurg,2013,Whole year,Sugarcane,1100.0,96700.0
-Maharashtra,Sindhudurg,2014,Kharif,Rice,67400.0,222400.0
-Maharashtra,Sindhudurg,2014,Rabi,Maize,100.0,200.0
-Maharashtra,Sindhudurg,2014,Kharif,Rice,2600.0,5400.0
 Maharashtra,Solapur,2012,Kharif,Maize,11100.0,10800.0
 Maharashtra,Solapur,2012,Kharif,Rice,400.0,100.0
 Maharashtra,Solapur,2012,Kharif,Urad,3800.0,2200.0
@@ -489,50 +293,6 @@ Maharashtra,Solapur,2014,Rabi,Maize,36100.0,105800.0
 Maharashtra,Solapur,2014,Rabi,Wheat,42200.0,54600.0
 Maharashtra,Solapur,2014,Kharif,Maize,2200.0,3400.0
 Maharashtra,Solapur,2014,Whole year,Sugarcane,205500.0,20049700.0
-Maharashtra,Thane,2012,Kharif,Rice,137500.0,356800.0
-Maharashtra,Thane,2012,Kharif,Urad,3500.0,2400.0
-Maharashtra,Thane,2012,Kharif,Rice,2100.0,6100.0
-Maharashtra,Thane,2013,Kharif,Rice,137500.0,328000.0
-Maharashtra,Thane,2013,Kharif,Urad,3500.0,2300.0
-Maharashtra,Thane,2013,Kharif,Rice,2100.0,6000.0
-Maharashtra,Thane,2014,Kharif,Rice,55200.0,132900.0
-Maharashtra,Thane,2014,Kharif,Rice,2800.0,7500.0
-Maharashtra,Wardha,2012,Kharif,Urad,400.0,300.0
-Maharashtra,Wardha,2012,Rabi,Wheat,23700.0,36000.0
-Maharashtra,Wardha,2012,Whole year,Sugarcane,2100.0,180200.0
-Maharashtra,Wardha,2013,Kharif,Urad,300.0,100.0
-Maharashtra,Wardha,2013,Rabi,Wheat,25700.0,33700.0
-Maharashtra,Wardha,2013,Kharif,Maize,500.0,500.0
-Maharashtra,Wardha,2013,Whole year,Sugarcane,3200.0,187500.0
-Maharashtra,Wardha,2014,Rabi,Wheat,13700.0,19900.0
-Maharashtra,Wardha,2014,Kharif,Maize,1000.0,1000.0
-Maharashtra,Wardha,2014,Whole year,Sugarcane,3100.0,201800.0
-Maharashtra,Washim,2012,Kharif,Maize,100.0,200.0
-Maharashtra,Washim,2012,Kharif,Urad,35700.0,28500.0
-Maharashtra,Washim,2012,Rabi,Wheat,16900.0,27100.0
-Maharashtra,Washim,2012,Kharif,Maize,400.0,400.0
-Maharashtra,Washim,2013,Kharif,Maize,300.0,900.0
-Maharashtra,Washim,2013,Kharif,Urad,11900.0,4300.0
-Maharashtra,Washim,2013,Rabi,Wheat,30900.0,50200.0
-Maharashtra,Washim,2013,Kharif,Maize,100.0,100.0
-Maharashtra,Washim,2014,Kharif,Maize,500.0,900.0
-Maharashtra,Washim,2014,Rabi,Maize,300.0,
-Maharashtra,Washim,2014,Rabi,Wheat,30900.0,40800.0
-Maharashtra,Washim,2014,Whole year,Sugarcane,200.0,5800.0
-Maharashtra,Yavatmal,2012,Kharif,Maize,500.0,1100.0
-Maharashtra,Yavatmal,2012,Kharif,Rice,100.0,40.0
-Maharashtra,Yavatmal,2012,Kharif,Urad,6900.0,4600.0
-Maharashtra,Yavatmal,2012,Rabi,Wheat,36100.0,64600.0
-Maharashtra,Yavatmal,2012,Kharif,Maize,800.0,
-Maharashtra,Yavatmal,2012,Whole year,Sugarcane,4200.0,355100.0
-Maharashtra,Yavatmal,2013,Kharif,Rice,100.0,
-Maharashtra,Yavatmal,2013,Kharif,Urad,5700.0,1600.0
-Maharashtra,Yavatmal,2013,Rabi,Wheat,34500.0,30700.0
-Maharashtra,Yavatmal,2013,Kharif,Maize,400.0,500.0
-Maharashtra,Yavatmal,2013,Whole year,Sugarcane,6500.0,490700.0
-Maharashtra,Yavatmal,2014,Rabi,Maize,1300.0,200.0
-Maharashtra,Yavatmal,2014,Rabi,Wheat,29100.0,26800.0
-Maharashtra,Yavatmal,2014,Whole year,Sugarcane,8100.0,553700.0
 Tamil Nadu,Ariyalur,2012,Kharif,Maize,14743.0,35469.0
 Tamil Nadu,Ariyalur,2012,Kharif,Rice,17523.0,36392.0
 Tamil Nadu,Ariyalur,2012,Kharif,Urad,1703.0,924.0
@@ -603,13 +363,6 @@ Tamil Nadu,Kanchipuram,2013,Kharif,Urad,684.0,575.0
 Tamil Nadu,Kanchipuram,2013,Rabi,Maize,4.0,20.0
 Tamil Nadu,Kanchipuram,2013,Rabi,Urad,984.0,840.0
 Tamil Nadu,Kanchipuram,2013,Whole year,Sugarcane,1731.0,179286.0
-Tamil Nadu,Kanniyakumari,2012,Kharif,Rice,12412.0,57882.0
-Tamil Nadu,Kanniyakumari,2012,Kharif,Urad,403.0,170.0
-Tamil Nadu,Kanniyakumari,2012,Whole year,Sugarcane,1.0,98.0
-Tamil Nadu,Kanniyakumari,2013,Kharif,Rice,13619.0,66703.0
-Tamil Nadu,Kanniyakumari,2013,Kharif,Urad,167.0,140.0
-Tamil Nadu,Kanniyakumari,2013,Rabi,Urad,1222.0,1043.0
-Tamil Nadu,Kanniyakumari,2013,Whole year,Sugarcane,2.0,207.0
 Tamil Nadu,Karur,2012,Kharif,Maize,1239.0,4349.0
 Tamil Nadu,Karur,2012,Kharif,Rice,10907.0,44073.0
 Tamil Nadu,Karur,2012,Kharif,Urad,1164.0,635.0
@@ -680,14 +433,6 @@ Tamil Nadu,Pudukkottai,2013,Kharif,Urad,2778.0,2334.0
 Tamil Nadu,Pudukkottai,2013,Rabi,Maize,3308.0,16547.0
 Tamil Nadu,Pudukkottai,2013,Rabi,Urad,2391.0,2040.0
 Tamil Nadu,Pudukkottai,2013,Whole year,Sugarcane,6826.0,471079.0
-Tamil Nadu,Ramanathapuram,2012,Kharif,Maize,1519.0,4282.0
-Tamil Nadu,Ramanathapuram,2012,Kharif,Rice,116505.0,68559.0
-Tamil Nadu,Ramanathapuram,2012,Kharif,Urad,2473.0,731.0
-Tamil Nadu,Ramanathapuram,2012,Whole year,Sugarcane,472.0,46084.0
-Tamil Nadu,Ramanathapuram,2013,Kharif,Rice,114981.0,33928.0
-Tamil Nadu,Ramanathapuram,2013,Rabi,Maize,885.0,4427.0
-Tamil Nadu,Ramanathapuram,2013,Rabi,Urad,2109.0,267.0
-Tamil Nadu,Ramanathapuram,2013,Whole year,Sugarcane,422.0,43708.0
 Tamil Nadu,Salem,2012,Kharif,Maize,29542.0,167367.0
 Tamil Nadu,Salem,2012,Kharif,Rice,12929.0,52953.0
 Tamil Nadu,Salem,2012,Kharif,Urad,2536.0,1141.0
@@ -698,201 +443,6 @@ Tamil Nadu,Salem,2013,Kharif,Urad,3248.0,3071.0
 Tamil Nadu,Salem,2013,Rabi,Maize,10845.0,81733.0
 Tamil Nadu,Salem,2013,Rabi,Urad,1170.0,998.0
 Tamil Nadu,Salem,2013,Whole year,Sugarcane,12652.0,1215553.0
-Tamil Nadu,Sivaganga,2012,Kharif,Maize,30.0,104.0
-Tamil Nadu,Sivaganga,2012,Kharif,Rice,70632.0,130306.0
-Tamil Nadu,Sivaganga,2012,Kharif,Urad,681.0,361.0
-Tamil Nadu,Sivaganga,2012,Whole year,Sugarcane,6091.0,548874.0
-Tamil Nadu,Sivaganga,2013,Kharif,Maize,204.0,1334.0
-Tamil Nadu,Sivaganga,2013,Kharif,Rice,65447.0,46084.0
-Tamil Nadu,Sivaganga,2013,Kharif,Urad,531.0,446.0
-Tamil Nadu,Sivaganga,2013,Rabi,Maize,148.0,740.0
-Tamil Nadu,Sivaganga,2013,Rabi,Urad,202.0,172.0
-Tamil Nadu,Sivaganga,2013,Whole year,Sugarcane,5257.0,331683.0
-Tamil Nadu,Thanjavur,2012,Kharif,Maize,959.0,3249.0
-Tamil Nadu,Thanjavur,2012,Kharif,Rice,146959.0,431121.0
-Tamil Nadu,Thanjavur,2012,Kharif,Urad,16253.0,8939.0
-Tamil Nadu,Thanjavur,2012,Whole year,Sugarcane,11671.0,1288791.0
-Tamil Nadu,Thanjavur,2013,Kharif,Maize,650.0,4249.0
-Tamil Nadu,Thanjavur,2013,Kharif,Rice,167289.0,831483.0
-Tamil Nadu,Thanjavur,2013,Kharif,Urad,2106.0,2327.0
-Tamil Nadu,Thanjavur,2013,Rabi,Maize,825.0,4127.0
-Tamil Nadu,Thanjavur,2013,Rabi,Urad,21366.0,18583.0
-Tamil Nadu,Thanjavur,2013,Whole year,Sugarcane,8580.0,1012422.0
-Tamil Nadu,The nilgiris,2012,Kharif,Rice,289.0,1148.0
-Tamil Nadu,The nilgiris,2012,Whole year,Sugarcane,4.0,391.0
-Tamil Nadu,The nilgiris,2013,Kharif,Rice,328.0,1420.0
-Tamil Nadu,The nilgiris,2013,Whole year,Sugarcane,3.0,311.0
-Tamil Nadu,Theni,2012,Kharif,Maize,9355.0,57910.0
-Tamil Nadu,Theni,2012,Kharif,Rice,10321.0,47635.0
-Tamil Nadu,Theni,2012,Kharif,Urad,748.0,409.0
-Tamil Nadu,Theni,2012,Whole year,Sugarcane,6408.0,806079.0
-Tamil Nadu,Theni,2013,Kharif,Maize,5813.0,49848.0
-Tamil Nadu,Theni,2013,Kharif,Rice,12499.0,50813.0
-Tamil Nadu,Theni,2013,Kharif,Urad,219.0,184.0
-Tamil Nadu,Theni,2013,Rabi,Maize,4770.0,41162.0
-Tamil Nadu,Theni,2013,Rabi,Urad,356.0,304.0
-Tamil Nadu,Theni,2013,Whole year,Sugarcane,6425.0,672685.0
-Tamil Nadu,Thiruvallur,2012,Kharif,Maize,4.0,14.0
-Tamil Nadu,Thiruvallur,2012,Kharif,Rice,78337.0,300455.0
-Tamil Nadu,Thiruvallur,2012,Kharif,Urad,1050.0,473.0
-Tamil Nadu,Thiruvallur,2012,Whole year,Sugarcane,7669.0,746013.0
-Tamil Nadu,Thiruvallur,2013,Kharif,Maize,26.0,170.0
-Tamil Nadu,Thiruvallur,2013,Kharif,Rice,95827.0,451522.0
-Tamil Nadu,Thiruvallur,2013,Kharif,Urad,460.0,387.0
-Tamil Nadu,Thiruvallur,2013,Rabi,Maize,55.0,275.0
-Tamil Nadu,Thiruvallur,2013,Rabi,Urad,1116.0,952.0
-Tamil Nadu,Thiruvallur,2013,Whole year,Sugarcane,7352.0,698344.0
-Tamil Nadu,Thiruvarur,2012,Kharif,Rice,158904.0,192843.0
-Tamil Nadu,Thiruvarur,2012,Kharif,Urad,13153.0,6765.0
-Tamil Nadu,Thiruvarur,2012,Whole year,Sugarcane,593.0,57898.0
-Tamil Nadu,Thiruvarur,2013,Kharif,Rice,174366.0,820538.0
-Tamil Nadu,Thiruvarur,2013,Kharif,Urad,580.0,487.0
-Tamil Nadu,Thiruvarur,2013,Rabi,Maize,1.0,5.0
-Tamil Nadu,Thiruvarur,2013,Rabi,Urad,58178.0,60610.0
-Tamil Nadu,Thiruvarur,2013,Whole year,Sugarcane,503.0,52098.0
-Tamil Nadu,Tiruchirappalli,2012,Kharif,Maize,7716.0,19035.0
-Tamil Nadu,Tiruchirappalli,2012,Kharif,Rice,45237.0,138079.0
-Tamil Nadu,Tiruchirappalli,2012,Kharif,Urad,2091.0,878.0
-Tamil Nadu,Tiruchirappalli,2012,Whole year,Sugarcane,4899.0,345403.0
-Tamil Nadu,Tiruchirappalli,2013,Kharif,Maize,9346.0,38586.0
-Tamil Nadu,Tiruchirappalli,2013,Kharif,Rice,48050.0,226632.0
-Tamil Nadu,Tiruchirappalli,2013,Kharif,Urad,1050.0,882.0
-Tamil Nadu,Tiruchirappalli,2013,Rabi,Maize,511.0,2556.0
-Tamil Nadu,Tiruchirappalli,2013,Rabi,Urad,8155.0,9294.0
-Tamil Nadu,Tiruchirappalli,2013,Whole year,Sugarcane,4034.0,449019.0
-Tamil Nadu,Tirunelveli,2012,Kharif,Maize,11218.0,35592.0
-Tamil Nadu,Tirunelveli,2012,Kharif,Rice,45401.0,182667.0
-Tamil Nadu,Tirunelveli,2012,Kharif,Urad,10140.0,4125.0
-Tamil Nadu,Tirunelveli,2012,Whole year,Sugarcane,3534.0,273601.0
-Tamil Nadu,Tirunelveli,2013,Kharif,Maize,720.0,4707.0
-Tamil Nadu,Tirunelveli,2013,Kharif,Rice,62281.0,362994.0
-Tamil Nadu,Tirunelveli,2013,Kharif,Urad,2230.0,1874.0
-Tamil Nadu,Tirunelveli,2013,Rabi,Maize,12366.0,55624.0
-Tamil Nadu,Tirunelveli,2013,Rabi,Urad,14688.0,5731.0
-Tamil Nadu,Tirunelveli,2013,Whole year,Sugarcane,3369.0,215001.0
-Tamil Nadu,Tiruppur,2012,Kharif,Maize,18095.0,111481.0
-Tamil Nadu,Tiruppur,2012,Kharif,Rice,245.0,604.0
-Tamil Nadu,Tiruppur,2012,Kharif,Urad,1863.0,908.0
-Tamil Nadu,Tiruppur,2012,Whole year,Sugarcane,5347.0,491342.0
-Tamil Nadu,Tiruppur,2013,Kharif,Maize,14495.0,112264.0
-Tamil Nadu,Tiruppur,2013,Kharif,Rice,7511.0,43377.0
-Tamil Nadu,Tiruppur,2013,Kharif,Urad,1091.0,917.0
-Tamil Nadu,Tiruppur,2013,Rabi,Maize,8329.0,72255.0
-Tamil Nadu,Tiruppur,2013,Rabi,Urad,997.0,851.0
-Tamil Nadu,Tiruppur,2013,Whole year,Sugarcane,4713.0,461927.0
-Tamil Nadu,Tiruvannamalai,2012,Kharif,Maize,579.0,1909.0
-Tamil Nadu,Tiruvannamalai,2012,Kharif,Rice,91774.0,325511.0
-Tamil Nadu,Tiruvannamalai,2012,Kharif,Urad,8798.0,5158.0
-Tamil Nadu,Tiruvannamalai,2012,Whole year,Sugarcane,43477.0,4376790.0
-Tamil Nadu,Tiruvannamalai,2013,Kharif,Maize,994.0,6498.0
-Tamil Nadu,Tiruvannamalai,2013,Kharif,Rice,82625.0,359403.0
-Tamil Nadu,Tiruvannamalai,2013,Kharif,Urad,5066.0,2533.0
-Tamil Nadu,Tiruvannamalai,2013,Rabi,Maize,697.0,3487.0
-Tamil Nadu,Tiruvannamalai,2013,Rabi,Urad,6294.0,2874.0
-Tamil Nadu,Tiruvannamalai,2013,Whole year,Sugarcane,37783.0,3084592.0
-Tamil Nadu,Tuticorin,2012,Kharif,Maize,29215.0,29999.0
-Tamil Nadu,Tuticorin,2012,Kharif,Rice,6234.0,24375.0
-Tamil Nadu,Tuticorin,2012,Kharif,Urad,29630.0,4865.0
-Tamil Nadu,Tuticorin,2012,Whole year,Sugarcane,457.0,44619.0
-Tamil Nadu,Tuticorin,2013,Kharif,Maize,26.0,
-Tamil Nadu,Tuticorin,2013,Kharif,Rice,11730.0,55451.0
-Tamil Nadu,Tuticorin,2013,Kharif,Urad,5.0,4.0
-Tamil Nadu,Tuticorin,2013,Rabi,Maize,37511.0,78036.0
-Tamil Nadu,Tuticorin,2013,Rabi,Urad,25824.0,4354.0
-Tamil Nadu,Tuticorin,2013,Whole year,Sugarcane,204.0,21129.0
-Tamil Nadu,Vellore,2012,Kharif,Maize,1143.0,3787.0
-Tamil Nadu,Vellore,2012,Kharif,Rice,35707.0,152804.0
-Tamil Nadu,Vellore,2012,Kharif,Urad,2476.0,1379.0
-Tamil Nadu,Vellore,2012,Whole year,Sugarcane,13182.0,1244329.0
-Tamil Nadu,Vellore,2013,Kharif,Maize,1533.0,10021.0
-Tamil Nadu,Vellore,2013,Kharif,Rice,39366.0,192496.0
-Tamil Nadu,Vellore,2013,Kharif,Urad,1866.0,1096.0
-Tamil Nadu,Vellore,2013,Rabi,Maize,3946.0,19739.0
-Tamil Nadu,Vellore,2013,Rabi,Urad,801.0,684.0
-Tamil Nadu,Vellore,2013,Whole year,Sugarcane,11591.0,1093697.0
-Tamil Nadu,Villupuram,2012,Kharif,Maize,5386.0,21524.0
-Tamil Nadu,Villupuram,2012,Kharif,Rice,115591.0,396530.0
-Tamil Nadu,Villupuram,2012,Kharif,Urad,22759.0,9515.0
-Tamil Nadu,Villupuram,2012,Whole year,Sugarcane,79437.0,8704838.0
-Tamil Nadu,Villupuram,2013,Kharif,Maize,19340.0,129683.0
-Tamil Nadu,Villupuram,2013,Kharif,Rice,170443.0,796608.0
-Tamil Nadu,Villupuram,2013,Kharif,Urad,21670.0,21509.0
-Tamil Nadu,Villupuram,2013,Rabi,Maize,13396.0,67009.0
-Tamil Nadu,Villupuram,2013,Rabi,Urad,40011.0,40984.0
-Tamil Nadu,Villupuram,2013,Whole year,Sugarcane,88786.0,10598908.0
-Tamil Nadu,Virudhunagar,2012,Kharif,Maize,23483.0,52304.0
-Tamil Nadu,Virudhunagar,2012,Kharif,Rice,22973.0,40467.0
-Tamil Nadu,Virudhunagar,2012,Kharif,Urad,2871.0,908.0
-Tamil Nadu,Virudhunagar,2012,Whole year,Sugarcane,3319.0,297582.0
-Tamil Nadu,Virudhunagar,2013,Kharif,Maize,4396.0,19488.0
-Tamil Nadu,Virudhunagar,2013,Kharif,Rice,16470.0,68146.0
-Tamil Nadu,Virudhunagar,2013,Kharif,Urad,520.0,437.0
-Tamil Nadu,Virudhunagar,2013,Rabi,Maize,21161.0,96554.0
-Tamil Nadu,Virudhunagar,2013,Rabi,Urad,2301.0,1461.0
-Tamil Nadu,Virudhunagar,2013,Whole year,Sugarcane,2917.0,296017.0
-Uttar Pradesh,Agra,2012,Kharif,Maize,73.0,204.0
-Uttar Pradesh,Agra,2012,Kharif,Rice,3556.0,8975.0
-Uttar Pradesh,Agra,2012,Kharif,Sugarcane,297.0,13470.0
-Uttar Pradesh,Agra,2012,Kharif,Urad,344.0,228.0
-Uttar Pradesh,Agra,2012,Rabi,Wheat,134889.0,516890.0
-Uttar Pradesh,Agra,2012,Kharif,Maize,83.0,153.0
-Uttar Pradesh,Agra,2012,Kharif,Rice,37.0,94.0
-Uttar Pradesh,Agra,2012,Kharif,Urad,2.0,2.0
-Uttar Pradesh,Agra,2013,Kharif,Maize,58.0,157.0
-Uttar Pradesh,Agra,2013,Kharif,Rice,8691.0,22475.0
-Uttar Pradesh,Agra,2013,Kharif,Sugarcane,255.0,12238.0
-Uttar Pradesh,Agra,2013,Kharif,Urad,215.0,96.0
-Uttar Pradesh,Agra,2013,Rabi,Wheat,132340.0,490452.0
-Uttar Pradesh,Agra,2013,Kharif,Maize,114.0,209.0
-Uttar Pradesh,Agra,2014,Kharif,Maize,45.0,117.0
-Uttar Pradesh,Agra,2014,Kharif,Rice,10164.0,24231.0
-Uttar Pradesh,Agra,2014,Kharif,Sugarcane,145.0,6106.0
-Uttar Pradesh,Agra,2014,Kharif,Urad,150.0,66.0
-Uttar Pradesh,Agra,2014,Rabi,Wheat,136036.0,327983.0
-Uttar Pradesh,Agra,2014,Kharif,Maize,299.0,532.0
-Uttar Pradesh,Aligarh,2012,Kharif,Maize,16307.0,43638.0
-Uttar Pradesh,Aligarh,2012,Kharif,Rice,85311.0,209609.0
-Uttar Pradesh,Aligarh,2012,Kharif,Sugarcane,10593.0,652190.0
-Uttar Pradesh,Aligarh,2012,Kharif,Urad,714.0,473.0
-Uttar Pradesh,Aligarh,2012,Rabi,Wheat,218374.0,756666.0
-Uttar Pradesh,Aligarh,2012,Kharif,Maize,379.0,700.0
-Uttar Pradesh,Aligarh,2012,Kharif,Urad,147.0,150.0
-Uttar Pradesh,Aligarh,2013,Kharif,Maize,11813.0,36774.0
-Uttar Pradesh,Aligarh,2013,Kharif,Rice,87525.0,196144.0
-Uttar Pradesh,Aligarh,2013,Kharif,Sugarcane,7301.0,444835.0
-Uttar Pradesh,Aligarh,2013,Kharif,Urad,452.0,202.0
-Uttar Pradesh,Aligarh,2013,Rabi,Maize,17.0,60.0
-Uttar Pradesh,Aligarh,2013,Rabi,Wheat,225289.0,811266.0
-Uttar Pradesh,Aligarh,2013,Kharif,Maize,378.0,694.0
-Uttar Pradesh,Aligarh,2013,Kharif,Urad,68.0,63.0
-Uttar Pradesh,Aligarh,2014,Kharif,Maize,14445.0,30956.0
-Uttar Pradesh,Aligarh,2014,Kharif,Rice,90420.0,201998.0
-Uttar Pradesh,Aligarh,2014,Kharif,Sugarcane,6478.0,387877.0
-Uttar Pradesh,Aligarh,2014,Kharif,Urad,806.0,432.0
-Uttar Pradesh,Aligarh,2014,Rabi,Wheat,223267.0,546558.0
-Uttar Pradesh,Aligarh,2014,Kharif,Maize,712.0,1266.0
-Uttar Pradesh,Aligarh,2014,Kharif,Urad,49.0,41.0
-Uttar Pradesh,Allahabad,2012,Kharif,Maize,160.0,182.0
-Uttar Pradesh,Allahabad,2012,Kharif,Rice,148937.0,427300.0
-Uttar Pradesh,Allahabad,2012,Kharif,Sugarcane,1019.0,62298.0
-Uttar Pradesh,Allahabad,2012,Kharif,Urad,604.0,424.0
-Uttar Pradesh,Allahabad,2012,Rabi,Maize,10.0,31.0
-Uttar Pradesh,Allahabad,2012,Rabi,Wheat,220342.0,549112.0
-Uttar Pradesh,Allahabad,2012,Kharif,Urad,2904.0,2959.0
-Uttar Pradesh,Allahabad,2013,Kharif,Maize,448.0,484.0
-Uttar Pradesh,Allahabad,2013,Kharif,Rice,159525.0,420986.0
-Uttar Pradesh,Allahabad,2013,Kharif,Sugarcane,763.0,52058.0
-Uttar Pradesh,Allahabad,2013,Kharif,Urad,805.0,497.0
-Uttar Pradesh,Allahabad,2013,Rabi,Maize,41.0,146.0
-Uttar Pradesh,Allahabad,2013,Rabi,Wheat,214421.0,522361.0
-Uttar Pradesh,Allahabad,2013,Kharif,Urad,2997.0,1743.0
-Uttar Pradesh,Allahabad,2014,Kharif,Maize,165.0,293.0
-Uttar Pradesh,Allahabad,2014,Kharif,Rice,149419.0,313780.0
-Uttar Pradesh,Allahabad,2014,Kharif,Sugarcane,700.0,46046.0
-Uttar Pradesh,Allahabad,2014,Kharif,Urad,1747.0,814.0
-Uttar Pradesh,Allahabad,2014,Rabi,Maize,54.0,129.0
-Uttar Pradesh,Allahabad,2014,Rabi,Wheat,213258.0,290829.0
-Uttar Pradesh,Allahabad,2014,Kharif,Urad,2725.0,605.0
 Uttar Pradesh,Ambedkar nagar,2012,Kharif,Maize,418.0,436.0
 Uttar Pradesh,Ambedkar nagar,2012,Kharif,Rice,115800.0,319492.0
 Uttar Pradesh,Ambedkar nagar,2012,Kharif,Sugarcane,12563.0,782590.0
@@ -917,29 +467,6 @@ Uttar Pradesh,Ambedkar nagar,2014,Rabi,Maize,51.0,122.0
 Uttar Pradesh,Ambedkar nagar,2014,Rabi,Wheat,120131.0,275941.0
 Uttar Pradesh,Ambedkar nagar,2014,Kharif,Maize,264.0,469.0
 Uttar Pradesh,Ambedkar nagar,2014,Kharif,Urad,1830.0,1005.0
-Uttar Pradesh,Amethi,2012,Kharif,Maize,399.0,416.0
-Uttar Pradesh,Amethi,2012,Kharif,Rice,118227.0,308454.0
-Uttar Pradesh,Amethi,2012,Kharif,Sugarcane,1506.0,93814.0
-Uttar Pradesh,Amethi,2012,Kharif,Urad,4747.0,2673.0
-Uttar Pradesh,Amethi,2012,Rabi,Wheat,126450.0,387190.0
-Uttar Pradesh,Amethi,2012,Kharif,Maize,29.0,54.0
-Uttar Pradesh,Amethi,2012,Kharif,Urad,4191.0,2702.0
-Uttar Pradesh,Amethi,2013,Kharif,Maize,601.0,400.0
-Uttar Pradesh,Amethi,2013,Kharif,Rice,123251.0,280396.0
-Uttar Pradesh,Amethi,2013,Kharif,Sugarcane,1605.0,99234.0
-Uttar Pradesh,Amethi,2013,Kharif,Urad,4381.0,1613.0
-Uttar Pradesh,Amethi,2013,Rabi,Maize,33.0,117.0
-Uttar Pradesh,Amethi,2013,Rabi,Wheat,127180.0,302688.0
-Uttar Pradesh,Amethi,2013,Kharif,Maize,75.0,138.0
-Uttar Pradesh,Amethi,2013,Kharif,Urad,4732.0,2127.0
-Uttar Pradesh,Amethi,2014,Kharif,Maize,539.0,392.0
-Uttar Pradesh,Amethi,2014,Kharif,Rice,97395.0,147846.0
-Uttar Pradesh,Amethi,2014,Kharif,Sugarcane,1602.0,100048.0
-Uttar Pradesh,Amethi,2014,Kharif,Urad,2656.0,1389.0
-Uttar Pradesh,Amethi,2014,Rabi,Maize,10.0,24.0
-Uttar Pradesh,Amethi,2014,Rabi,Wheat,95382.0,173595.0
-Uttar Pradesh,Amethi,2014,Kharif,Maize,86.0,153.0
-Uttar Pradesh,Amethi,2014,Kharif,Urad,3573.0,1963.0
 Uttar Pradesh,Amroha,2012,Kharif,Maize,1458.0,1311.0
 Uttar Pradesh,Amroha,2012,Kharif,Rice,22530.0,40914.0
 Uttar Pradesh,Amroha,2012,Kharif,Sugarcane,80944.0,5200490.0
@@ -964,28 +491,6 @@ Uttar Pradesh,Amroha,2014,Rabi,Wheat,91563.0,193106.0
 Uttar Pradesh,Amroha,2014,Kharif,Maize,327.0,581.0
 Uttar Pradesh,Amroha,2014,Kharif,Rice,13.0,34.0
 Uttar Pradesh,Amroha,2014,Kharif,Urad,1.0,1.0
-Uttar Pradesh,Auraiya,2012,Kharif,Maize,8615.0,22356.0
-Uttar Pradesh,Auraiya,2012,Kharif,Rice,52566.0,164321.0
-Uttar Pradesh,Auraiya,2012,Kharif,Sugarcane,684.0,41522.0
-Uttar Pradesh,Auraiya,2012,Kharif,Urad,1032.0,713.0
-Uttar Pradesh,Auraiya,2012,Rabi,Wheat,103644.0,376020.0
-Uttar Pradesh,Auraiya,2012,Kharif,Maize,1566.0,2893.0
-Uttar Pradesh,Auraiya,2012,Kharif,Urad,712.0,576.0
-Uttar Pradesh,Auraiya,2013,Kharif,Maize,7314.0,18709.0
-Uttar Pradesh,Auraiya,2013,Kharif,Rice,53582.0,176070.0
-Uttar Pradesh,Auraiya,2013,Kharif,Sugarcane,1047.0,62394.0
-Uttar Pradesh,Auraiya,2013,Kharif,Urad,1242.0,711.0
-Uttar Pradesh,Auraiya,2013,Rabi,Wheat,104354.0,398006.0
-Uttar Pradesh,Auraiya,2013,Kharif,Maize,281.0,516.0
-Uttar Pradesh,Auraiya,2013,Kharif,Urad,758.0,537.0
-Uttar Pradesh,Auraiya,2014,Kharif,Maize,8219.0,19808.0
-Uttar Pradesh,Auraiya,2014,Kharif,Rice,55752.0,175898.0
-Uttar Pradesh,Auraiya,2014,Kharif,Sugarcane,920.0,53004.0
-Uttar Pradesh,Auraiya,2014,Kharif,Urad,903.0,701.0
-Uttar Pradesh,Auraiya,2014,Rabi,Maize,83.0,199.0
-Uttar Pradesh,Auraiya,2014,Rabi,Wheat,104341.0,236332.0
-Uttar Pradesh,Auraiya,2014,Kharif,Maize,326.0,580.0
-Uttar Pradesh,Auraiya,2014,Kharif,Urad,1399.0,978.0
 Uttar Pradesh,Azamgarh,2012,Kharif,Maize,6550.0,11705.0
 Uttar Pradesh,Azamgarh,2012,Kharif,Rice,210961.0,453777.0
 Uttar Pradesh,Azamgarh,2012,Kharif,Sugarcane,19099.0,1109652.0
@@ -1010,24 +515,6 @@ Uttar Pradesh,Azamgarh,2014,Rabi,Maize,114.0,170.0
 Uttar Pradesh,Azamgarh,2014,Rabi,Wheat,243897.0,516574.0
 Uttar Pradesh,Azamgarh,2014,Kharif,Maize,309.0,549.0
 Uttar Pradesh,Azamgarh,2014,Kharif,Urad,97.0,52.0
-Uttar Pradesh,Baghpat,2012,Kharif,Rice,5088.0,15483.0
-Uttar Pradesh,Baghpat,2012,Kharif,Sugarcane,73561.0,5404085.0
-Uttar Pradesh,Baghpat,2012,Kharif,Urad,521.0,345.0
-Uttar Pradesh,Baghpat,2012,Rabi,Wheat,53718.0,238830.0
-Uttar Pradesh,Baghpat,2012,Kharif,Urad,180.0,124.0
-Uttar Pradesh,Baghpat,2013,Kharif,Maize,22.0,53.0
-Uttar Pradesh,Baghpat,2013,Kharif,Rice,7931.0,24126.0
-Uttar Pradesh,Baghpat,2013,Kharif,Sugarcane,71950.0,5562023.0
-Uttar Pradesh,Baghpat,2013,Kharif,Urad,430.0,192.0
-Uttar Pradesh,Baghpat,2013,Rabi,Wheat,55347.0,249172.0
-Uttar Pradesh,Baghpat,2013,Kharif,Urad,137.0,79.0
-Uttar Pradesh,Baghpat,2014,Kharif,Maize,31.0,73.0
-Uttar Pradesh,Baghpat,2014,Kharif,Rice,5792.0,14515.0
-Uttar Pradesh,Baghpat,2014,Kharif,Sugarcane,77107.0,5671682.0
-Uttar Pradesh,Baghpat,2014,Kharif,Urad,290.0,156.0
-Uttar Pradesh,Baghpat,2014,Rabi,Wheat,51752.0,175439.0
-Uttar Pradesh,Baghpat,2014,Kharif,Maize,1.0,2.0
-Uttar Pradesh,Baghpat,2014,Kharif,Urad,111.0,60.0
 Uttar Pradesh,Bahraich,2012,Kharif,Maize,73289.0,95642.0
 Uttar Pradesh,Bahraich,2012,Kharif,Rice,159182.0,380445.0
 Uttar Pradesh,Bahraich,2012,Kharif,Sugarcane,24326.0,1312047.0
@@ -1052,245 +539,6 @@ Uttar Pradesh,Bahraich,2014,Rabi,Maize,743.0,1778.0
 Uttar Pradesh,Bahraich,2014,Rabi,Wheat,165865.0,394095.0
 Uttar Pradesh,Bahraich,2014,Kharif,Maize,2254.0,4008.0
 Uttar Pradesh,Bahraich,2014,Kharif,Urad,296.0,160.0
-Uttar Pradesh,Ballia,2012,Kharif,Maize,28154.0,49917.0
-Uttar Pradesh,Ballia,2012,Kharif,Rice,112168.0,244302.0
-Uttar Pradesh,Ballia,2012,Kharif,Sugarcane,5870.0,281924.0
-Uttar Pradesh,Ballia,2012,Rabi,Maize,4525.0,14168.0
-Uttar Pradesh,Ballia,2012,Rabi,Wheat,135902.0,459034.0
-Uttar Pradesh,Ballia,2012,Kharif,Maize,819.0,1512.0
-Uttar Pradesh,Ballia,2012,Kharif,Urad,31.0,21.0
-Uttar Pradesh,Ballia,2013,Kharif,Maize,28043.0,35783.0
-Uttar Pradesh,Ballia,2013,Kharif,Rice,118000.0,261960.0
-Uttar Pradesh,Ballia,2013,Kharif,Sugarcane,6151.0,319901.0
-Uttar Pradesh,Ballia,2013,Kharif,Urad,5.0,2.0
-Uttar Pradesh,Ballia,2013,Rabi,Maize,3258.0,11576.0
-Uttar Pradesh,Ballia,2013,Rabi,Wheat,137861.0,395888.0
-Uttar Pradesh,Ballia,2013,Kharif,Maize,762.0,1400.0
-Uttar Pradesh,Ballia,2013,Kharif,Urad,22.0,13.0
-Uttar Pradesh,Ballia,2014,Kharif,Maize,27434.0,40575.0
-Uttar Pradesh,Ballia,2014,Kharif,Rice,122464.0,251908.0
-Uttar Pradesh,Ballia,2014,Kharif,Sugarcane,4096.0,213254.0
-Uttar Pradesh,Ballia,2014,Kharif,Urad,4.0,2.0
-Uttar Pradesh,Ballia,2014,Rabi,Maize,3876.0,5783.0
-Uttar Pradesh,Ballia,2014,Rabi,Wheat,141821.0,321804.0
-Uttar Pradesh,Ballia,2014,Kharif,Maize,745.0,1325.0
-Uttar Pradesh,Ballia,2014,Kharif,Urad,9.0,5.0
-Uttar Pradesh,Balrampur,2012,Kharif,Maize,7388.0,8747.0
-Uttar Pradesh,Balrampur,2012,Kharif,Rice,106533.0,247370.0
-Uttar Pradesh,Balrampur,2012,Kharif,Sugarcane,52493.0,2647747.0
-Uttar Pradesh,Balrampur,2012,Kharif,Urad,1494.0,990.0
-Uttar Pradesh,Balrampur,2012,Rabi,Wheat,87826.0,238448.0
-Uttar Pradesh,Balrampur,2012,Kharif,Maize,270.0,499.0
-Uttar Pradesh,Balrampur,2012,Kharif,Urad,33.0,23.0
-Uttar Pradesh,Balrampur,2013,Kharif,Maize,2160.0,2650.0
-Uttar Pradesh,Balrampur,2013,Kharif,Rice,105387.0,232800.0
-Uttar Pradesh,Balrampur,2013,Kharif,Sugarcane,44097.0,2129180.0
-Uttar Pradesh,Balrampur,2013,Kharif,Urad,1510.0,674.0
-Uttar Pradesh,Balrampur,2013,Rabi,Maize,33.0,117.0
-Uttar Pradesh,Balrampur,2013,Rabi,Wheat,85817.0,236801.0
-Uttar Pradesh,Balrampur,2013,Kharif,Maize,127.0,233.0
-Uttar Pradesh,Balrampur,2014,Kharif,Maize,7772.0,9241.0
-Uttar Pradesh,Balrampur,2014,Kharif,Rice,108030.0,198235.0
-Uttar Pradesh,Balrampur,2014,Kharif,Sugarcane,43539.0,2227978.0
-Uttar Pradesh,Balrampur,2014,Kharif,Urad,1440.0,772.0
-Uttar Pradesh,Balrampur,2014,Rabi,Maize,428.0,1024.0
-Uttar Pradesh,Balrampur,2014,Rabi,Wheat,90246.0,189697.0
-Uttar Pradesh,Balrampur,2014,Kharif,Maize,266.0,473.0
-Uttar Pradesh,Balrampur,2014,Kharif,Urad,23.0,13.0
-Uttar Pradesh,Banda,2012,Kharif,Maize,9.0,16.0
-Uttar Pradesh,Banda,2012,Kharif,Rice,49833.0,87208.0
-Uttar Pradesh,Banda,2012,Kharif,Sugarcane,481.0,17871.0
-Uttar Pradesh,Banda,2012,Kharif,Urad,4081.0,1836.0
-Uttar Pradesh,Banda,2012,Rabi,Wheat,153753.0,343012.0
-Uttar Pradesh,Banda,2013,Kharif,Maize,4.0,7.0
-Uttar Pradesh,Banda,2013,Kharif,Rice,56350.0,101881.0
-Uttar Pradesh,Banda,2013,Kharif,Sugarcane,558.0,24925.0
-Uttar Pradesh,Banda,2013,Kharif,Urad,3640.0,1551.0
-Uttar Pradesh,Banda,2013,Rabi,Maize,109.0,387.0
-Uttar Pradesh,Banda,2013,Rabi,Wheat,164065.0,311815.0
-Uttar Pradesh,Banda,2014,Kharif,Maize,3.0,5.0
-Uttar Pradesh,Banda,2014,Kharif,Rice,45895.0,81923.0
-Uttar Pradesh,Banda,2014,Kharif,Sugarcane,398.0,16097.0
-Uttar Pradesh,Banda,2014,Kharif,Urad,4733.0,1500.0
-Uttar Pradesh,Banda,2014,Rabi,Wheat,151692.0,137988.0
-Uttar Pradesh,Banda,2014,Kharif,Urad,11.0,6.0
-Uttar Pradesh,Barabanki,2012,Kharif,Maize,3464.0,2186.0
-Uttar Pradesh,Barabanki,2012,Kharif,Rice,183962.0,562372.0
-Uttar Pradesh,Barabanki,2012,Kharif,Sugarcane,9746.0,587801.0
-Uttar Pradesh,Barabanki,2012,Kharif,Urad,9180.0,5389.0
-Uttar Pradesh,Barabanki,2012,Rabi,Wheat,162341.0,603259.0
-Uttar Pradesh,Barabanki,2012,Kharif,Maize,473.0,874.0
-Uttar Pradesh,Barabanki,2012,Kharif,Urad,891.0,431.0
-Uttar Pradesh,Barabanki,2013,Kharif,Maize,3450.0,3402.0
-Uttar Pradesh,Barabanki,2013,Kharif,Rice,181235.0,517970.0
-Uttar Pradesh,Barabanki,2013,Kharif,Sugarcane,9881.0,605073.0
-Uttar Pradesh,Barabanki,2013,Kharif,Urad,9279.0,4575.0
-Uttar Pradesh,Barabanki,2013,Rabi,Maize,6.0,21.0
-Uttar Pradesh,Barabanki,2013,Rabi,Wheat,166533.0,590693.0
-Uttar Pradesh,Barabanki,2013,Kharif,Maize,420.0,772.0
-Uttar Pradesh,Barabanki,2013,Kharif,Urad,618.0,278.0
-Uttar Pradesh,Barabanki,2014,Kharif,Maize,2980.0,2166.0
-Uttar Pradesh,Barabanki,2014,Kharif,Rice,191884.0,529600.0
-Uttar Pradesh,Barabanki,2014,Kharif,Sugarcane,9736.0,564143.0
-Uttar Pradesh,Barabanki,2014,Kharif,Urad,9381.0,4906.0
-Uttar Pradesh,Barabanki,2014,Rabi,Maize,85.0,204.0
-Uttar Pradesh,Barabanki,2014,Rabi,Wheat,165449.0,392114.0
-Uttar Pradesh,Barabanki,2014,Kharif,Maize,299.0,532.0
-Uttar Pradesh,Barabanki,2014,Kharif,Urad,456.0,172.0
-Uttar Pradesh,Bareilly,2012,Kharif,Maize,260.0,546.0
-Uttar Pradesh,Bareilly,2012,Kharif,Rice,145203.0,324384.0
-Uttar Pradesh,Bareilly,2012,Kharif,Sugarcane,96523.0,6046973.0
-Uttar Pradesh,Bareilly,2012,Kharif,Urad,11834.0,8331.0
-Uttar Pradesh,Bareilly,2012,Rabi,Wheat,200363.0,615114.0
-Uttar Pradesh,Bareilly,2012,Kharif,Maize,70.0,129.0
-Uttar Pradesh,Bareilly,2012,Kharif,Rice,783.0,1749.0
-Uttar Pradesh,Bareilly,2013,Kharif,Maize,464.0,941.0
-Uttar Pradesh,Bareilly,2013,Kharif,Rice,162916.0,366561.0
-Uttar Pradesh,Bareilly,2013,Kharif,Sugarcane,94008.0,5787132.0
-Uttar Pradesh,Bareilly,2013,Kharif,Urad,4122.0,2032.0
-Uttar Pradesh,Bareilly,2013,Rabi,Wheat,200048.0,630351.0
-Uttar Pradesh,Bareilly,2013,Kharif,Maize,125.0,230.0
-Uttar Pradesh,Bareilly,2013,Kharif,Rice,1190.0,2677.0
-Uttar Pradesh,Bareilly,2013,Kharif,Urad,77.0,45.0
-Uttar Pradesh,Bareilly,2014,Kharif,Maize,54.0,106.0
-Uttar Pradesh,Bareilly,2014,Kharif,Rice,162390.0,334361.0
-Uttar Pradesh,Bareilly,2014,Kharif,Sugarcane,99211.0,6120128.0
-Uttar Pradesh,Bareilly,2014,Kharif,Urad,4562.0,2984.0
-Uttar Pradesh,Bareilly,2014,Rabi,Wheat,212598.0,395007.0
-Uttar Pradesh,Bareilly,2014,Kharif,Maize,413.0,734.0
-Uttar Pradesh,Bareilly,2014,Kharif,Rice,1558.0,3208.0
-Uttar Pradesh,Bareilly,2014,Kharif,Urad,26.0,14.0
-Uttar Pradesh,Basti,2012,Kharif,Maize,2382.0,4400.0
-Uttar Pradesh,Basti,2012,Kharif,Rice,107977.0,265084.0
-Uttar Pradesh,Basti,2012,Kharif,Sugarcane,38841.0,2343821.0
-Uttar Pradesh,Basti,2012,Kharif,Urad,201.0,133.0
-Uttar Pradesh,Basti,2012,Rabi,Maize,34.0,107.0
-Uttar Pradesh,Basti,2012,Rabi,Wheat,119061.0,346825.0
-Uttar Pradesh,Basti,2012,Kharif,Maize,163.0,301.0
-Uttar Pradesh,Basti,2012,Kharif,Urad,92.0,64.0
-Uttar Pradesh,Basti,2013,Kharif,Maize,2518.0,4626.0
-Uttar Pradesh,Basti,2013,Kharif,Rice,104860.0,263933.0
-Uttar Pradesh,Basti,2013,Kharif,Sugarcane,39953.0,2459666.0
-Uttar Pradesh,Basti,2013,Kharif,Urad,226.0,100.0
-Uttar Pradesh,Basti,2013,Rabi,Maize,19.0,68.0
-Uttar Pradesh,Basti,2013,Rabi,Wheat,119033.0,383048.0
-Uttar Pradesh,Basti,2013,Kharif,Maize,157.0,288.0
-Uttar Pradesh,Basti,2013,Kharif,Urad,84.0,49.0
-Uttar Pradesh,Basti,2014,Kharif,Maize,2273.0,4041.0
-Uttar Pradesh,Basti,2014,Kharif,Rice,104328.0,202814.0
-Uttar Pradesh,Basti,2014,Kharif,Sugarcane,36515.0,2290221.0
-Uttar Pradesh,Basti,2014,Kharif,Urad,165.0,88.0
-Uttar Pradesh,Basti,2014,Rabi,Maize,1.0,3.0
-Uttar Pradesh,Basti,2014,Rabi,Wheat,119630.0,253855.0
-Uttar Pradesh,Basti,2014,Kharif,Maize,200.0,356.0
-Uttar Pradesh,Basti,2014,Kharif,Urad,91.0,49.0
-Uttar Pradesh,Bijnor,2012,Kharif,Rice,51390.0,129708.0
-Uttar Pradesh,Bijnor,2012,Kharif,Sugarcane,215538.0,12602938.0
-Uttar Pradesh,Bijnor,2012,Kharif,Urad,1395.0,1190.0
-Uttar Pradesh,Bijnor,2012,Rabi,Wheat,103369.0,330057.0
-Uttar Pradesh,Bijnor,2012,Kharif,Maize,13.0,24.0
-Uttar Pradesh,Bijnor,2012,Kharif,Rice,124.0,313.0
-Uttar Pradesh,Bijnor,2012,Kharif,Urad,107.0,74.0
-Uttar Pradesh,Bijnor,2013,Kharif,Maize,26.0,41.0
-Uttar Pradesh,Bijnor,2013,Kharif,Rice,52943.0,123304.0
-Uttar Pradesh,Bijnor,2013,Kharif,Sugarcane,201239.0,12060656.0
-Uttar Pradesh,Bijnor,2013,Kharif,Urad,2206.0,1751.0
-Uttar Pradesh,Bijnor,2013,Rabi,Maize,15.0,53.0
-Uttar Pradesh,Bijnor,2013,Rabi,Wheat,147955.0,488843.0
-Uttar Pradesh,Bijnor,2013,Kharif,Rice,52.0,121.0
-Uttar Pradesh,Bijnor,2013,Kharif,Urad,83.0,48.0
-Uttar Pradesh,Bijnor,2014,Kharif,Maize,5.0,9.0
-Uttar Pradesh,Bijnor,2014,Kharif,Rice,54742.0,143205.0
-Uttar Pradesh,Bijnor,2014,Kharif,Sugarcane,212471.0,13968693.0
-Uttar Pradesh,Bijnor,2014,Kharif,Urad,1938.0,1944.0
-Uttar Pradesh,Bijnor,2014,Rabi,Maize,2.0,5.0
-Uttar Pradesh,Bijnor,2014,Rabi,Wheat,116552.0,315040.0
-Uttar Pradesh,Bijnor,2014,Kharif,Rice,67.0,175.0
-Uttar Pradesh,Bijnor,2014,Kharif,Urad,127.0,69.0
-Uttar Pradesh,Budaun,2012,Kharif,Maize,8783.0,18673.0
-Uttar Pradesh,Budaun,2012,Kharif,Rice,83806.0,191329.0
-Uttar Pradesh,Budaun,2012,Kharif,Sugarcane,32069.0,1860515.0
-Uttar Pradesh,Budaun,2012,Kharif,Urad,35701.0,30988.0
-Uttar Pradesh,Budaun,2012,Rabi,Wheat,230265.0,765401.0
-Uttar Pradesh,Budaun,2012,Kharif,Maize,1187.0,2193.0
-Uttar Pradesh,Budaun,2012,Kharif,Rice,20.0,46.0
-Uttar Pradesh,Budaun,2012,Kharif,Urad,19.0,13.0
-Uttar Pradesh,Budaun,2013,Kharif,Maize,9341.0,20391.0
-Uttar Pradesh,Budaun,2013,Kharif,Rice,79975.0,176185.0
-Uttar Pradesh,Budaun,2013,Kharif,Sugarcane,24998.0,1532377.0
-Uttar Pradesh,Budaun,2013,Kharif,Urad,36181.0,28330.0
-Uttar Pradesh,Budaun,2013,Rabi,Wheat,245390.0,894447.0
-Uttar Pradesh,Budaun,2013,Kharif,Maize,2739.0,5032.0
-Uttar Pradesh,Budaun,2013,Kharif,Urad,11.0,6.0
-Uttar Pradesh,Budaun,2014,Kharif,Maize,7829.0,17005.0
-Uttar Pradesh,Budaun,2014,Kharif,Rice,81242.0,166790.0
-Uttar Pradesh,Budaun,2014,Kharif,Sugarcane,29629.0,1748230.0
-Uttar Pradesh,Budaun,2014,Kharif,Urad,26551.0,17311.0
-Uttar Pradesh,Budaun,2014,Rabi,Maize,4.0,10.0
-Uttar Pradesh,Budaun,2014,Rabi,Wheat,255586.0,538009.0
-Uttar Pradesh,Budaun,2014,Kharif,Maize,4230.0,7521.0
-Uttar Pradesh,Budaun,2014,Kharif,Rice,33.0,68.0
-Uttar Pradesh,Budaun,2014,Kharif,Urad,13.0,7.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Maize,44122.0,104613.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Rice,83783.0,216328.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Sugarcane,54231.0,3306139.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Urad,1603.0,1063.0
-Uttar Pradesh,Bulandshahr,2012,Rabi,Wheat,193944.0,781594.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Maize,1023.0,1889.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Rice,1.0,3.0
-Uttar Pradesh,Bulandshahr,2012,Kharif,Urad,267.0,185.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Maize,41547.0,99380.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Rice,95669.0,251801.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Sugarcane,51056.0,3337633.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Urad,1874.0,836.0
-Uttar Pradesh,Bulandshahr,2013,Rabi,Wheat,191272.0,788232.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Maize,2145.0,3940.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Rice,1.0,3.0
-Uttar Pradesh,Bulandshahr,2013,Kharif,Urad,127.0,74.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Maize,37867.0,89290.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Rice,107595.0,275551.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Sugarcane,48031.0,3028451.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Urad,1571.0,842.0
-Uttar Pradesh,Bulandshahr,2014,Rabi,Wheat,195559.0,534072.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Maize,2537.0,4511.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Rice,1.0,3.0
-Uttar Pradesh,Bulandshahr,2014,Kharif,Urad,133.0,72.0
-Uttar Pradesh,Chandauli,2012,Kharif,Maize,52.0,93.0
-Uttar Pradesh,Chandauli,2012,Kharif,Rice,108200.0,302203.0
-Uttar Pradesh,Chandauli,2012,Kharif,Sugarcane,655.0,33761.0
-Uttar Pradesh,Chandauli,2012,Kharif,Urad,97.0,35.0
-Uttar Pradesh,Chandauli,2012,Rabi,Maize,14.0,44.0
-Uttar Pradesh,Chandauli,2012,Rabi,Wheat,101444.0,303318.0
-Uttar Pradesh,Chandauli,2012,Kharif,Urad,28.0,21.0
-Uttar Pradesh,Chandauli,2013,Kharif,Maize,51.0,81.0
-Uttar Pradesh,Chandauli,2013,Kharif,Rice,112455.0,300817.0
-Uttar Pradesh,Chandauli,2013,Kharif,Sugarcane,628.0,34592.0
-Uttar Pradesh,Chandauli,2013,Kharif,Urad,106.0,48.0
-Uttar Pradesh,Chandauli,2013,Rabi,Maize,38.0,135.0
-Uttar Pradesh,Chandauli,2013,Rabi,Wheat,102339.0,268640.0
-Uttar Pradesh,Chandauli,2013,Kharif,Urad,15.0,12.0
-Uttar Pradesh,Chandauli,2014,Kharif,Maize,10.0,16.0
-Uttar Pradesh,Chandauli,2014,Kharif,Rice,102598.0,303793.0
-Uttar Pradesh,Chandauli,2014,Kharif,Sugarcane,618.0,35548.0
-Uttar Pradesh,Chandauli,2014,Kharif,Urad,106.0,70.0
-Uttar Pradesh,Chandauli,2014,Rabi,Maize,40.0,96.0
-Uttar Pradesh,Chandauli,2014,Rabi,Wheat,95462.0,140204.0
-Uttar Pradesh,Chandauli,2014,Kharif,Urad,22.0,12.0
-Uttar Pradesh,Chitrakoot,2012,Kharif,Maize,73.0,135.0
-Uttar Pradesh,Chitrakoot,2012,Kharif,Rice,8494.0,12741.0
-Uttar Pradesh,Chitrakoot,2012,Kharif,Sugarcane,217.0,8062.0
-Uttar Pradesh,Chitrakoot,2012,Kharif,Urad,1438.0,774.0
-Uttar Pradesh,Chitrakoot,2012,Rabi,Wheat,54253.0,130500.0
-Uttar Pradesh,Chitrakoot,2013,Kharif,Maize,16.0,29.0
-Uttar Pradesh,Chitrakoot,2013,Kharif,Rice,10155.0,18208.0
-Uttar Pradesh,Chitrakoot,2013,Kharif,Sugarcane,313.0,13981.0
-Uttar Pradesh,Chitrakoot,2013,Kharif,Urad,1242.0,457.0
-Uttar Pradesh,Chitrakoot,2013,Rabi,Wheat,52387.0,102460.0
-Uttar Pradesh,Chitrakoot,2014,Kharif,Maize,14.0,25.0
-Uttar Pradesh,Chitrakoot,2014,Kharif,Rice,12662.0,12763.0
-Uttar Pradesh,Chitrakoot,2014,Kharif,Sugarcane,340.0,13751.0
-Uttar Pradesh,Chitrakoot,2014,Kharif,Urad,494.0,141.0
-Uttar Pradesh,Chitrakoot,2014,Rabi,Wheat,54500.0,60877.0
 Uttar Pradesh,Deoria,2012,Kharif,Maize,5413.0,12250.0
 Uttar Pradesh,Deoria,2012,Kharif,Rice,132142.0,295337.0
 Uttar Pradesh,Deoria,2012,Kharif,Sugarcane,9315.0,552193.0
@@ -1318,224 +566,6 @@ Uttar Pradesh,Deoria,2014,Rabi,Wheat,155105.0,291133.0
 Uttar Pradesh,Deoria,2014,Kharif,Maize,419.0,745.0
 Uttar Pradesh,Deoria,2014,Kharif,Rice,14.0,28.0
 Uttar Pradesh,Deoria,2014,Kharif,Urad,7.0,4.0
-Uttar Pradesh,Etah,2012,Kharif,Maize,23785.0,66313.0
-Uttar Pradesh,Etah,2012,Kharif,Rice,18727.0,49608.0
-Uttar Pradesh,Etah,2012,Kharif,Sugarcane,289.0,17455.0
-Uttar Pradesh,Etah,2012,Kharif,Urad,1018.0,676.0
-Uttar Pradesh,Etah,2012,Rabi,Wheat,136461.0,462193.0
-Uttar Pradesh,Etah,2012,Kharif,Maize,1089.0,2011.0
-Uttar Pradesh,Etah,2012,Kharif,Urad,392.0,401.0
-Uttar Pradesh,Etah,2013,Kharif,Maize,26032.0,75259.0
-Uttar Pradesh,Etah,2013,Kharif,Rice,19297.0,45001.0
-Uttar Pradesh,Etah,2013,Kharif,Sugarcane,212.0,13031.0
-Uttar Pradesh,Etah,2013,Kharif,Urad,1002.0,447.0
-Uttar Pradesh,Etah,2013,Rabi,Wheat,134108.0,484935.0
-Uttar Pradesh,Etah,2013,Kharif,Maize,2839.0,5215.0
-Uttar Pradesh,Etah,2013,Kharif,Urad,382.0,355.0
-Uttar Pradesh,Etah,2014,Kharif,Maize,20898.0,66393.0
-Uttar Pradesh,Etah,2014,Kharif,Rice,18244.0,40283.0
-Uttar Pradesh,Etah,2014,Kharif,Sugarcane,353.0,20262.0
-Uttar Pradesh,Etah,2014,Kharif,Urad,755.0,405.0
-Uttar Pradesh,Etah,2014,Rabi,Wheat,133604.0,264536.0
-Uttar Pradesh,Etah,2014,Kharif,Maize,3785.0,6730.0
-Uttar Pradesh,Etah,2014,Kharif,Urad,317.0,263.0
-Uttar Pradesh,Etawah,2012,Kharif,Maize,4658.0,12511.0
-Uttar Pradesh,Etawah,2012,Kharif,Rice,49251.0,145734.0
-Uttar Pradesh,Etawah,2012,Kharif,Sugarcane,374.0,22703.0
-Uttar Pradesh,Etawah,2012,Kharif,Urad,1145.0,1184.0
-Uttar Pradesh,Etawah,2012,Rabi,Wheat,93695.0,366688.0
-Uttar Pradesh,Etawah,2012,Kharif,Maize,318.0,587.0
-Uttar Pradesh,Etawah,2012,Kharif,Urad,351.0,284.0
-Uttar Pradesh,Etawah,2013,Kharif,Maize,4559.0,12679.0
-Uttar Pradesh,Etawah,2013,Kharif,Rice,58263.0,169604.0
-Uttar Pradesh,Etawah,2013,Kharif,Sugarcane,348.0,20738.0
-Uttar Pradesh,Etawah,2013,Kharif,Urad,968.0,554.0
-Uttar Pradesh,Etawah,2013,Rabi,Maize,2.0,7.0
-Uttar Pradesh,Etawah,2013,Rabi,Wheat,96592.0,360658.0
-Uttar Pradesh,Etawah,2013,Kharif,Maize,755.0,1387.0
-Uttar Pradesh,Etawah,2013,Kharif,Urad,353.0,250.0
-Uttar Pradesh,Etawah,2014,Kharif,Maize,4787.0,12767.0
-Uttar Pradesh,Etawah,2014,Kharif,Rice,52797.0,136533.0
-Uttar Pradesh,Etawah,2014,Kharif,Sugarcane,408.0,23506.0
-Uttar Pradesh,Etawah,2014,Kharif,Urad,1168.0,613.0
-Uttar Pradesh,Etawah,2014,Rabi,Maize,2.0,5.0
-Uttar Pradesh,Etawah,2014,Rabi,Wheat,96640.0,164868.0
-Uttar Pradesh,Etawah,2014,Kharif,Maize,1151.0,2046.0
-Uttar Pradesh,Etawah,2014,Kharif,Urad,311.0,217.0
-Uttar Pradesh,Faizabad,2012,Kharif,Maize,1707.0,1781.0
-Uttar Pradesh,Faizabad,2012,Kharif,Rice,99791.0,253569.0
-Uttar Pradesh,Faizabad,2012,Kharif,Sugarcane,21013.0,1342899.0
-Uttar Pradesh,Faizabad,2012,Kharif,Urad,3127.0,2317.0
-Uttar Pradesh,Faizabad,2012,Rabi,Wheat,108071.0,319782.0
-Uttar Pradesh,Faizabad,2012,Kharif,Maize,1344.0,2482.0
-Uttar Pradesh,Faizabad,2012,Kharif,Urad,1764.0,1251.0
-Uttar Pradesh,Faizabad,2013,Kharif,Maize,1452.0,966.0
-Uttar Pradesh,Faizabad,2013,Kharif,Rice,103896.0,272519.0
-Uttar Pradesh,Faizabad,2013,Kharif,Sugarcane,19239.0,1269312.0
-Uttar Pradesh,Faizabad,2013,Kharif,Urad,2794.0,1028.0
-Uttar Pradesh,Faizabad,2013,Rabi,Maize,61.0,217.0
-Uttar Pradesh,Faizabad,2013,Rabi,Wheat,109098.0,269145.0
-Uttar Pradesh,Faizabad,2013,Kharif,Maize,1372.0,2520.0
-Uttar Pradesh,Faizabad,2013,Kharif,Urad,1842.0,672.0
-Uttar Pradesh,Faizabad,2014,Kharif,Maize,1457.0,1059.0
-Uttar Pradesh,Faizabad,2014,Kharif,Rice,94586.0,207805.0
-Uttar Pradesh,Faizabad,2014,Kharif,Sugarcane,20004.0,1328266.0
-Uttar Pradesh,Faizabad,2014,Kharif,Urad,2059.0,1077.0
-Uttar Pradesh,Faizabad,2014,Rabi,Maize,87.0,208.0
-Uttar Pradesh,Faizabad,2014,Rabi,Wheat,110261.0,227138.0
-Uttar Pradesh,Faizabad,2014,Kharif,Maize,1360.0,2418.0
-Uttar Pradesh,Faizabad,2014,Kharif,Urad,1345.0,441.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Maize,30334.0,83813.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Rice,15283.0,42471.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Sugarcane,8086.0,507219.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Urad,1174.0,812.0
-Uttar Pradesh,Farrukhabad,2012,Rabi,Wheat,75378.0,272429.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Maize,305.0,563.0
-Uttar Pradesh,Farrukhabad,2012,Kharif,Urad,1268.0,1026.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Maize,36352.0,85791.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Rice,16524.0,44202.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Sugarcane,8172.0,504343.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Urad,1005.0,575.0
-Uttar Pradesh,Farrukhabad,2013,Rabi,Wheat,75776.0,263950.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Maize,1082.0,1988.0
-Uttar Pradesh,Farrukhabad,2013,Kharif,Urad,1434.0,1017.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Maize,26921.0,51850.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Rice,11900.0,33213.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Sugarcane,7198.0,436861.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Urad,1059.0,556.0
-Uttar Pradesh,Farrukhabad,2014,Rabi,Wheat,77049.0,180327.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Maize,1402.0,2493.0
-Uttar Pradesh,Farrukhabad,2014,Kharif,Urad,1035.0,723.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Maize,297.0,339.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Rice,77164.0,189515.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Sugarcane,6676.0,408151.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Urad,6970.0,4614.0
-Uttar Pradesh,Fatehpur,2012,Rabi,Wheat,170681.0,560591.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Maize,82.0,151.0
-Uttar Pradesh,Fatehpur,2012,Kharif,Urad,546.0,423.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Maize,230.0,249.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Rice,86459.0,225226.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Sugarcane,7357.0,501961.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Urad,6340.0,3620.0
-Uttar Pradesh,Fatehpur,2013,Rabi,Maize,15.0,53.0
-Uttar Pradesh,Fatehpur,2013,Rabi,Wheat,174453.0,595895.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Maize,10.0,18.0
-Uttar Pradesh,Fatehpur,2013,Kharif,Urad,555.0,323.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Maize,227.0,404.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Rice,80702.0,157046.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Sugarcane,7882.0,518486.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Urad,10863.0,3943.0
-Uttar Pradesh,Fatehpur,2014,Rabi,Maize,49.0,117.0
-Uttar Pradesh,Fatehpur,2014,Rabi,Wheat,174246.0,341436.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Maize,5.0,9.0
-Uttar Pradesh,Fatehpur,2014,Kharif,Urad,561.0,125.0
-Uttar Pradesh,Firozabad,2012,Kharif,Maize,8054.0,21335.0
-Uttar Pradesh,Firozabad,2012,Kharif,Rice,19297.0,54726.0
-Uttar Pradesh,Firozabad,2012,Kharif,Sugarcane,141.0,6395.0
-Uttar Pradesh,Firozabad,2012,Kharif,Urad,476.0,316.0
-Uttar Pradesh,Firozabad,2012,Rabi,Wheat,99498.0,368839.0
-Uttar Pradesh,Firozabad,2012,Kharif,Maize,767.0,1417.0
-Uttar Pradesh,Firozabad,2012,Kharif,Urad,1038.0,966.0
-Uttar Pradesh,Firozabad,2013,Kharif,Maize,7071.0,22323.0
-Uttar Pradesh,Firozabad,2013,Kharif,Rice,21599.0,59354.0
-Uttar Pradesh,Firozabad,2013,Kharif,Sugarcane,154.0,7391.0
-Uttar Pradesh,Firozabad,2013,Kharif,Urad,438.0,195.0
-Uttar Pradesh,Firozabad,2013,Rabi,Maize,16.0,57.0
-Uttar Pradesh,Firozabad,2013,Rabi,Wheat,96543.0,348520.0
-Uttar Pradesh,Firozabad,2013,Kharif,Maize,644.0,1183.0
-Uttar Pradesh,Firozabad,2013,Kharif,Rice,1.0,3.0
-Uttar Pradesh,Firozabad,2013,Kharif,Urad,898.0,739.0
-Uttar Pradesh,Firozabad,2014,Kharif,Maize,9398.0,25572.0
-Uttar Pradesh,Firozabad,2014,Kharif,Rice,23319.0,56619.0
-Uttar Pradesh,Firozabad,2014,Kharif,Sugarcane,117.0,4927.0
-Uttar Pradesh,Firozabad,2014,Kharif,Urad,307.0,136.0
-Uttar Pradesh,Firozabad,2014,Rabi,Wheat,97764.0,188098.0
-Uttar Pradesh,Firozabad,2014,Kharif,Maize,1470.0,2614.0
-Uttar Pradesh,Firozabad,2014,Kharif,Urad,666.0,732.0
-Uttar Pradesh,Gautam buddha nagar,2012,Kharif,Maize,739.0,1752.0
-Uttar Pradesh,Gautam buddha nagar,2012,Kharif,Rice,23455.0,49772.0
-Uttar Pradesh,Gautam buddha nagar,2012,Kharif,Sugarcane,1940.0,130355.0
-Uttar Pradesh,Gautam buddha nagar,2012,Kharif,Urad,1.0,1.0
-Uttar Pradesh,Gautam buddha nagar,2012,Rabi,Wheat,45934.0,178591.0
-Uttar Pradesh,Gautam buddha nagar,2012,Kharif,Urad,82.0,57.0
-Uttar Pradesh,Gautam buddha nagar,2013,Kharif,Maize,572.0,1368.0
-Uttar Pradesh,Gautam buddha nagar,2013,Kharif,Rice,13750.0,33660.0
-Uttar Pradesh,Gautam buddha nagar,2013,Kharif,Sugarcane,1888.0,133442.0
-Uttar Pradesh,Gautam buddha nagar,2013,Kharif,Urad,23.0,10.0
-Uttar Pradesh,Gautam buddha nagar,2013,Rabi,Wheat,46130.0,192731.0
-Uttar Pradesh,Gautam buddha nagar,2013,Kharif,Urad,73.0,42.0
-Uttar Pradesh,Gautam buddha nagar,2014,Kharif,Maize,213.0,362.0
-Uttar Pradesh,Gautam buddha nagar,2014,Kharif,Rice,22522.0,62701.0
-Uttar Pradesh,Gautam buddha nagar,2014,Kharif,Sugarcane,1798.0,131612.0
-Uttar Pradesh,Gautam buddha nagar,2014,Kharif,Urad,12.0,6.0
-Uttar Pradesh,Gautam buddha nagar,2014,Rabi,Wheat,40032.0,85909.0
-Uttar Pradesh,Gautam buddha nagar,2014,Kharif,Urad,78.0,42.0
-Uttar Pradesh,Ghaziabad,2012,Kharif,Maize,120.0,284.0
-Uttar Pradesh,Ghaziabad,2012,Kharif,Rice,10098.0,26083.0
-Uttar Pradesh,Ghaziabad,2012,Kharif,Sugarcane,21381.0,1373430.0
-Uttar Pradesh,Ghaziabad,2012,Kharif,Urad,24.0,16.0
-Uttar Pradesh,Ghaziabad,2012,Rabi,Wheat,28227.0,123550.0
-Uttar Pradesh,Ghaziabad,2012,Kharif,Urad,13.0,9.0
-Uttar Pradesh,Ghaziabad,2013,Kharif,Maize,64.0,153.0
-Uttar Pradesh,Ghaziabad,2013,Kharif,Rice,9296.0,25267.0
-Uttar Pradesh,Ghaziabad,2013,Kharif,Sugarcane,21384.0,1478490.0
-Uttar Pradesh,Ghaziabad,2013,Kharif,Urad,86.0,38.0
-Uttar Pradesh,Ghaziabad,2013,Rabi,Wheat,28164.0,115726.0
-Uttar Pradesh,Ghaziabad,2013,Kharif,Urad,6.0,3.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Maize,104.0,245.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Rice,8650.0,23727.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Sugarcane,11136.0,750076.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Urad,19.0,10.0
-Uttar Pradesh,Ghaziabad,2014,Rabi,Wheat,26619.0,86645.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Maize,13.0,23.0
-Uttar Pradesh,Ghaziabad,2014,Kharif,Urad,22.0,12.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Maize,587.0,1045.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Rice,149175.0,348622.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Sugarcane,7631.0,351972.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Urad,700.0,249.0
-Uttar Pradesh,Ghazipur,2012,Rabi,Wheat,174612.0,501740.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Maize,59.0,109.0
-Uttar Pradesh,Ghazipur,2012,Kharif,Urad,667.0,506.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Maize,593.0,939.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Rice,148895.0,318040.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Sugarcane,7382.0,358588.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Urad,735.0,331.0
-Uttar Pradesh,Ghazipur,2013,Rabi,Maize,169.0,601.0
-Uttar Pradesh,Ghazipur,2013,Rabi,Wheat,174040.0,456998.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Maize,70.0,129.0
-Uttar Pradesh,Ghazipur,2013,Kharif,Urad,585.0,476.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Maize,627.0,996.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Rice,136673.0,294257.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Sugarcane,7239.0,396118.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Urad,502.0,333.0
-Uttar Pradesh,Ghazipur,2014,Rabi,Maize,74.0,177.0
-Uttar Pradesh,Ghazipur,2014,Rabi,Wheat,175209.0,309379.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Maize,101.0,180.0
-Uttar Pradesh,Ghazipur,2014,Kharif,Urad,645.0,361.0
-Uttar Pradesh,Gonda,2012,Kharif,Maize,47026.0,53045.0
-Uttar Pradesh,Gonda,2012,Kharif,Rice,122264.0,287932.0
-Uttar Pradesh,Gonda,2012,Kharif,Sugarcane,73651.0,4370745.0
-Uttar Pradesh,Gonda,2012,Kharif,Urad,633.0,420.0
-Uttar Pradesh,Gonda,2012,Rabi,Maize,196.0,614.0
-Uttar Pradesh,Gonda,2012,Rabi,Wheat,155802.0,454007.0
-Uttar Pradesh,Gonda,2012,Kharif,Maize,2239.0,4135.0
-Uttar Pradesh,Gonda,2012,Kharif,Urad,352.0,244.0
-Uttar Pradesh,Gonda,2013,Kharif,Maize,45958.0,51933.0
-Uttar Pradesh,Gonda,2013,Kharif,Rice,126768.0,310582.0
-Uttar Pradesh,Gonda,2013,Kharif,Sugarcane,81115.0,4680984.0
-Uttar Pradesh,Gonda,2013,Kharif,Urad,1240.0,553.0
-Uttar Pradesh,Gonda,2013,Rabi,Maize,256.0,910.0
-Uttar Pradesh,Gonda,2013,Rabi,Wheat,153277.0,456919.0
-Uttar Pradesh,Gonda,2013,Kharif,Maize,2582.0,4743.0
-Uttar Pradesh,Gonda,2013,Kharif,Urad,568.0,329.0
-Uttar Pradesh,Gonda,2014,Kharif,Maize,43274.0,50155.0
-Uttar Pradesh,Gonda,2014,Kharif,Rice,134534.0,278485.0
-Uttar Pradesh,Gonda,2014,Kharif,Sugarcane,79442.0,4088721.0
-Uttar Pradesh,Gonda,2014,Kharif,Urad,722.0,387.0
-Uttar Pradesh,Gonda,2014,Rabi,Maize,237.0,567.0
-Uttar Pradesh,Gonda,2014,Rabi,Wheat,154990.0,401889.0
-Uttar Pradesh,Gonda,2014,Kharif,Maize,2789.0,4959.0
-Uttar Pradesh,Gonda,2014,Kharif,Urad,671.0,362.0
 Uttar Pradesh,Gorakhpur,2012,Kharif,Maize,2445.0,3205.0
 Uttar Pradesh,Gorakhpur,2012,Kharif,Rice,151122.0,344256.0
 Uttar Pradesh,Gorakhpur,2012,Kharif,Sugarcane,2714.0,175737.0
@@ -1563,41 +593,6 @@ Uttar Pradesh,Gorakhpur,2014,Rabi,Wheat,190247.0,331410.0
 Uttar Pradesh,Gorakhpur,2014,Kharif,Maize,238.0,423.0
 Uttar Pradesh,Gorakhpur,2014,Kharif,Rice,52.0,115.0
 Uttar Pradesh,Gorakhpur,2014,Kharif,Urad,26.0,14.0
-Uttar Pradesh,Hamirpur,2012,Kharif,Rice,97.0,181.0
-Uttar Pradesh,Hamirpur,2012,Kharif,Sugarcane,3426.0,127290.0
-Uttar Pradesh,Hamirpur,2012,Kharif,Urad,13304.0,5641.0
-Uttar Pradesh,Hamirpur,2012,Rabi,Wheat,113299.0,322731.0
-Uttar Pradesh,Hamirpur,2013,Kharif,Maize,1.0,2.0
-Uttar Pradesh,Hamirpur,2013,Kharif,Rice,84.0,152.0
-Uttar Pradesh,Hamirpur,2013,Kharif,Sugarcane,4828.0,215662.0
-Uttar Pradesh,Hamirpur,2013,Kharif,Urad,16168.0,6500.0
-Uttar Pradesh,Hamirpur,2013,Rabi,Maize,154.0,547.0
-Uttar Pradesh,Hamirpur,2013,Rabi,Wheat,111347.0,298733.0
-Uttar Pradesh,Hamirpur,2014,Kharif,Rice,41.0,66.0
-Uttar Pradesh,Hamirpur,2014,Kharif,Sugarcane,5381.0,217635.0
-Uttar Pradesh,Hamirpur,2014,Kharif,Urad,17064.0,5051.0
-Uttar Pradesh,Hamirpur,2014,Rabi,Wheat,113329.0,171992.0
-Uttar Pradesh,Hapur,2012,Kharif,Maize,1255.0,2976.0
-Uttar Pradesh,Hapur,2012,Kharif,Rice,20160.0,59593.0
-Uttar Pradesh,Hapur,2012,Kharif,Sugarcane,37894.0,2368375.0
-Uttar Pradesh,Hapur,2012,Kharif,Urad,878.0,582.0
-Uttar Pradesh,Hapur,2012,Rabi,Wheat,43672.0,207835.0
-Uttar Pradesh,Hapur,2012,Kharif,Maize,212.0,392.0
-Uttar Pradesh,Hapur,2012,Kharif,Urad,94.0,65.0
-Uttar Pradesh,Hapur,2013,Kharif,Maize,1352.0,3234.0
-Uttar Pradesh,Hapur,2013,Kharif,Rice,20322.0,59422.0
-Uttar Pradesh,Hapur,2013,Kharif,Sugarcane,38509.0,2510171.0
-Uttar Pradesh,Hapur,2013,Kharif,Urad,876.0,391.0
-Uttar Pradesh,Hapur,2013,Rabi,Wheat,42412.0,197216.0
-Uttar Pradesh,Hapur,2013,Kharif,Maize,200.0,367.0
-Uttar Pradesh,Hapur,2013,Kharif,Urad,162.0,94.0
-Uttar Pradesh,Hapur,2014,Kharif,Maize,659.0,1551.0
-Uttar Pradesh,Hapur,2014,Kharif,Rice,20839.0,61496.0
-Uttar Pradesh,Hapur,2014,Kharif,Sugarcane,35923.0,2526393.0
-Uttar Pradesh,Hapur,2014,Kharif,Urad,867.0,465.0
-Uttar Pradesh,Hapur,2014,Rabi,Wheat,44552.0,136507.0
-Uttar Pradesh,Hapur,2014,Kharif,Maize,162.0,288.0
-Uttar Pradesh,Hapur,2014,Kharif,Urad,72.0,39.0
 Uttar Pradesh,Hardoi,2012,Kharif,Maize,36598.0,70122.0
 Uttar Pradesh,Hardoi,2012,Kharif,Rice,144505.0,354615.0
 Uttar Pradesh,Hardoi,2012,Kharif,Sugarcane,35834.0,2210098.0
@@ -1624,205 +619,6 @@ Uttar Pradesh,Hardoi,2014,Rabi,Wheat,326194.0,719258.0
 Uttar Pradesh,Hardoi,2014,Kharif,Maize,1490.0,2649.0
 Uttar Pradesh,Hardoi,2014,Kharif,Rice,50.0,98.0
 Uttar Pradesh,Hardoi,2014,Kharif,Urad,2686.0,1891.0
-Uttar Pradesh,Hathras,2012,Kharif,Maize,3022.0,6500.0
-Uttar Pradesh,Hathras,2012,Kharif,Rice,20857.0,47137.0
-Uttar Pradesh,Hathras,2012,Kharif,Sugarcane,530.0,32012.0
-Uttar Pradesh,Hathras,2012,Kharif,Urad,375.0,248.0
-Uttar Pradesh,Hathras,2012,Rabi,Wheat,76850.0,275584.0
-Uttar Pradesh,Hathras,2012,Kharif,Maize,164.0,303.0
-Uttar Pradesh,Hathras,2012,Kharif,Urad,12.0,12.0
-Uttar Pradesh,Hathras,2013,Kharif,Maize,2827.0,5677.0
-Uttar Pradesh,Hathras,2013,Kharif,Rice,23223.0,54690.0
-Uttar Pradesh,Hathras,2013,Kharif,Sugarcane,326.0,20039.0
-Uttar Pradesh,Hathras,2013,Kharif,Urad,124.0,55.0
-Uttar Pradesh,Hathras,2013,Rabi,Wheat,79227.0,308906.0
-Uttar Pradesh,Hathras,2013,Kharif,Maize,419.0,770.0
-Uttar Pradesh,Hathras,2013,Kharif,Rice,12.0,28.0
-Uttar Pradesh,Hathras,2013,Kharif,Urad,35.0,32.0
-Uttar Pradesh,Hathras,2014,Kharif,Maize,3042.0,6516.0
-Uttar Pradesh,Hathras,2014,Kharif,Rice,29465.0,56956.0
-Uttar Pradesh,Hathras,2014,Kharif,Sugarcane,262.0,15038.0
-Uttar Pradesh,Hathras,2014,Kharif,Urad,61.0,33.0
-Uttar Pradesh,Hathras,2014,Rabi,Wheat,82134.0,191947.0
-Uttar Pradesh,Hathras,2014,Kharif,Maize,255.0,453.0
-Uttar Pradesh,Hathras,2014,Kharif,Urad,125.0,104.0
-Uttar Pradesh,Jalaun,2012,Kharif,Maize,21.0,22.0
-Uttar Pradesh,Jalaun,2012,Kharif,Rice,512.0,555.0
-Uttar Pradesh,Jalaun,2012,Kharif,Sugarcane,1752.0,65094.0
-Uttar Pradesh,Jalaun,2012,Kharif,Urad,6519.0,3442.0
-Uttar Pradesh,Jalaun,2012,Rabi,Maize,2.0,6.0
-Uttar Pradesh,Jalaun,2012,Rabi,Wheat,145440.0,467112.0
-Uttar Pradesh,Jalaun,2013,Kharif,Maize,22.0,13.0
-Uttar Pradesh,Jalaun,2013,Kharif,Rice,520.0,934.0
-Uttar Pradesh,Jalaun,2013,Kharif,Sugarcane,1609.0,64614.0
-Uttar Pradesh,Jalaun,2013,Kharif,Urad,8991.0,3884.0
-Uttar Pradesh,Jalaun,2013,Rabi,Maize,212.0,753.0
-Uttar Pradesh,Jalaun,2013,Rabi,Wheat,149458.0,445320.0
-Uttar Pradesh,Jalaun,2014,Kharif,Maize,3.0,3.0
-Uttar Pradesh,Jalaun,2014,Kharif,Rice,509.0,890.0
-Uttar Pradesh,Jalaun,2014,Kharif,Sugarcane,1344.0,54341.0
-Uttar Pradesh,Jalaun,2014,Kharif,Urad,8779.0,3801.0
-Uttar Pradesh,Jalaun,2014,Rabi,Wheat,155125.0,206239.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Maize,44245.0,78181.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Rice,147185.0,343971.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Sugarcane,9578.0,535027.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Urad,6107.0,2174.0
-Uttar Pradesh,Jaunpur,2012,Rabi,Wheat,210453.0,655140.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Maize,563.0,1040.0
-Uttar Pradesh,Jaunpur,2012,Kharif,Urad,1046.0,794.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Maize,43857.0,69119.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Rice,149517.0,342394.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Sugarcane,11306.0,648557.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Urad,6220.0,2799.0
-Uttar Pradesh,Jaunpur,2013,Rabi,Maize,64.0,227.0
-Uttar Pradesh,Jaunpur,2013,Rabi,Wheat,210671.0,602940.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Maize,359.0,659.0
-Uttar Pradesh,Jaunpur,2013,Kharif,Urad,961.0,781.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Maize,45029.0,71506.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Rice,140428.0,338993.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Sugarcane,9870.0,565156.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Urad,6124.0,4054.0
-Uttar Pradesh,Jaunpur,2014,Rabi,Maize,35.0,84.0
-Uttar Pradesh,Jaunpur,2014,Rabi,Wheat,209445.0,405486.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Maize,440.0,782.0
-Uttar Pradesh,Jaunpur,2014,Kharif,Urad,922.0,516.0
-Uttar Pradesh,Jhansi,2012,Kharif,Maize,1219.0,1256.0
-Uttar Pradesh,Jhansi,2012,Kharif,Rice,10042.0,19893.0
-Uttar Pradesh,Jhansi,2012,Kharif,Sugarcane,228.0,8471.0
-Uttar Pradesh,Jhansi,2012,Kharif,Urad,49841.0,27462.0
-Uttar Pradesh,Jhansi,2012,Rabi,Wheat,156091.0,434532.0
-Uttar Pradesh,Jhansi,2012,Kharif,Urad,8.0,6.0
-Uttar Pradesh,Jhansi,2013,Kharif,Maize,912.0,857.0
-Uttar Pradesh,Jhansi,2013,Kharif,Rice,10738.0,20907.0
-Uttar Pradesh,Jhansi,2013,Kharif,Sugarcane,208.0,8353.0
-Uttar Pradesh,Jhansi,2013,Kharif,Urad,67237.0,22995.0
-Uttar Pradesh,Jhansi,2013,Rabi,Maize,415.0,1475.0
-Uttar Pradesh,Jhansi,2013,Rabi,Wheat,153384.0,235384.0
-Uttar Pradesh,Jhansi,2013,Kharif,Urad,2.0,1.0
-Uttar Pradesh,Jhansi,2014,Kharif,Maize,1152.0,772.0
-Uttar Pradesh,Jhansi,2014,Kharif,Rice,9590.0,17694.0
-Uttar Pradesh,Jhansi,2014,Kharif,Sugarcane,165.0,6671.0
-Uttar Pradesh,Jhansi,2014,Kharif,Urad,76089.0,23131.0
-Uttar Pradesh,Jhansi,2014,Rabi,Wheat,155061.0,183641.0
-Uttar Pradesh,Jhansi,2014,Kharif,Rice,2.0,4.0
-Uttar Pradesh,Jhansi,2014,Kharif,Urad,2.0,1.0
-Uttar Pradesh,Kannauj,2012,Kharif,Maize,42936.0,92656.0
-Uttar Pradesh,Kannauj,2012,Kharif,Rice,17275.0,52257.0
-Uttar Pradesh,Kannauj,2012,Kharif,Sugarcane,215.0,13051.0
-Uttar Pradesh,Kannauj,2012,Kharif,Urad,328.0,227.0
-Uttar Pradesh,Kannauj,2012,Rabi,Maize,39.0,122.0
-Uttar Pradesh,Kannauj,2012,Rabi,Wheat,70105.0,268920.0
-Uttar Pradesh,Kannauj,2012,Kharif,Maize,2166.0,4001.0
-Uttar Pradesh,Kannauj,2012,Kharif,Urad,1349.0,1091.0
-Uttar Pradesh,Kannauj,2013,Kharif,Maize,40094.0,87806.0
-Uttar Pradesh,Kannauj,2013,Kharif,Rice,21390.0,63165.0
-Uttar Pradesh,Kannauj,2013,Kharif,Sugarcane,204.0,12157.0
-Uttar Pradesh,Kannauj,2013,Kharif,Urad,399.0,229.0
-Uttar Pradesh,Kannauj,2013,Rabi,Maize,14.0,50.0
-Uttar Pradesh,Kannauj,2013,Rabi,Wheat,77569.0,297075.0
-Uttar Pradesh,Kannauj,2013,Kharif,Maize,19734.0,36251.0
-Uttar Pradesh,Kannauj,2013,Kharif,Urad,1976.0,1401.0
-Uttar Pradesh,Kannauj,2014,Kharif,Maize,34990.0,62282.0
-Uttar Pradesh,Kannauj,2014,Kharif,Rice,22007.0,52355.0
-Uttar Pradesh,Kannauj,2014,Kharif,Sugarcane,130.0,7490.0
-Uttar Pradesh,Kannauj,2014,Kharif,Urad,297.0,156.0
-Uttar Pradesh,Kannauj,2014,Rabi,Maize,19.0,46.0
-Uttar Pradesh,Kannauj,2014,Rabi,Wheat,76686.0,108049.0
-Uttar Pradesh,Kannauj,2014,Kharif,Maize,16444.0,29237.0
-Uttar Pradesh,Kannauj,2014,Kharif,Urad,1656.0,1158.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Maize,12197.0,24138.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Rice,39670.0,119367.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Sugarcane,2575.0,156314.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Urad,4205.0,3339.0
-Uttar Pradesh,Kanpur dehat,2012,Rabi,Maize,3.0,9.0
-Uttar Pradesh,Kanpur dehat,2012,Rabi,Wheat,120580.0,435969.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Maize,148.0,273.0
-Uttar Pradesh,Kanpur dehat,2012,Kharif,Urad,577.0,467.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Maize,13297.0,26315.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Rice,41454.0,112299.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Sugarcane,2313.0,137838.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Urad,6148.0,3228.0
-Uttar Pradesh,Kanpur dehat,2013,Rabi,Maize,10.0,36.0
-Uttar Pradesh,Kanpur dehat,2013,Rabi,Wheat,127503.0,457446.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Maize,166.0,305.0
-Uttar Pradesh,Kanpur dehat,2013,Kharif,Urad,548.0,389.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Maize,11363.0,18238.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Rice,37513.0,92770.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Sugarcane,2304.0,132740.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Urad,5378.0,3915.0
-Uttar Pradesh,Kanpur dehat,2014,Rabi,Maize,34.0,81.0
-Uttar Pradesh,Kanpur dehat,2014,Rabi,Wheat,122103.0,203542.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Maize,180.0,320.0
-Uttar Pradesh,Kanpur dehat,2014,Kharif,Urad,537.0,375.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Maize,19538.0,28584.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Rice,31891.0,74689.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Sugarcane,3031.0,167626.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Urad,6199.0,3161.0
-Uttar Pradesh,Kanpur nagar,2012,Rabi,Maize,5.0,16.0
-Uttar Pradesh,Kanpur nagar,2012,Rabi,Wheat,106886.0,380275.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Maize,1229.0,2270.0
-Uttar Pradesh,Kanpur nagar,2012,Kharif,Urad,749.0,606.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Maize,20161.0,37056.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Rice,33584.0,85941.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Sugarcane,3109.0,167911.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Urad,7236.0,2641.0
-Uttar Pradesh,Kanpur nagar,2013,Rabi,Maize,156.0,554.0
-Uttar Pradesh,Kanpur nagar,2013,Rabi,Wheat,102821.0,395335.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Maize,2436.0,4475.0
-Uttar Pradesh,Kanpur nagar,2013,Kharif,Urad,434.0,308.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Maize,17941.0,21206.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Rice,29881.0,69204.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Sugarcane,2819.0,140262.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Urad,6649.0,2188.0
-Uttar Pradesh,Kanpur nagar,2014,Rabi,Maize,362.0,866.0
-Uttar Pradesh,Kanpur nagar,2014,Rabi,Wheat,102753.0,155171.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Maize,2492.0,4431.0
-Uttar Pradesh,Kanpur nagar,2014,Kharif,Urad,679.0,475.0
-Uttar Pradesh,Kasganj,2012,Kharif,Maize,31511.0,90500.0
-Uttar Pradesh,Kasganj,2012,Kharif,Rice,17238.0,46974.0
-Uttar Pradesh,Kasganj,2012,Kharif,Sugarcane,7013.0,411102.0
-Uttar Pradesh,Kasganj,2012,Kharif,Urad,913.0,605.0
-Uttar Pradesh,Kasganj,2012,Rabi,Wheat,94210.0,320314.0
-Uttar Pradesh,Kasganj,2012,Kharif,Maize,3213.0,5935.0
-Uttar Pradesh,Kasganj,2012,Kharif,Urad,145.0,148.0
-Uttar Pradesh,Kasganj,2013,Kharif,Maize,31168.0,91946.0
-Uttar Pradesh,Kasganj,2013,Kharif,Rice,17015.0,37977.0
-Uttar Pradesh,Kasganj,2013,Kharif,Sugarcane,7531.0,467012.0
-Uttar Pradesh,Kasganj,2013,Kharif,Urad,1065.0,475.0
-Uttar Pradesh,Kasganj,2013,Rabi,Wheat,97331.0,342897.0
-Uttar Pradesh,Kasganj,2013,Kharif,Maize,5806.0,10666.0
-Uttar Pradesh,Kasganj,2013,Kharif,Urad,355.0,330.0
-Uttar Pradesh,Kasganj,2014,Kharif,Maize,29316.0,98912.0
-Uttar Pradesh,Kasganj,2014,Kharif,Rice,19146.0,45740.0
-Uttar Pradesh,Kasganj,2014,Kharif,Sugarcane,7331.0,404876.0
-Uttar Pradesh,Kasganj,2014,Kharif,Urad,738.0,395.0
-Uttar Pradesh,Kasganj,2014,Rabi,Wheat,98653.0,229467.0
-Uttar Pradesh,Kasganj,2014,Kharif,Maize,6006.0,10679.0
-Uttar Pradesh,Kasganj,2014,Kharif,Urad,726.0,603.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Maize,136.0,155.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Rice,46141.0,100357.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Sugarcane,1787.0,109252.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Urad,1190.0,836.0
-Uttar Pradesh,Kaushambi,2012,Rabi,Maize,7.0,22.0
-Uttar Pradesh,Kaushambi,2012,Rabi,Wheat,75647.0,219631.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Maize,87.0,161.0
-Uttar Pradesh,Kaushambi,2012,Kharif,Urad,166.0,128.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Maize,184.0,199.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Rice,50894.0,112425.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Sugarcane,1401.0,95589.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Urad,967.0,598.0
-Uttar Pradesh,Kaushambi,2013,Rabi,Maize,158.0,561.0
-Uttar Pradesh,Kaushambi,2013,Rabi,Wheat,66491.0,161600.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Maize,100.0,184.0
-Uttar Pradesh,Kaushambi,2013,Kharif,Urad,274.0,159.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Maize,77.0,137.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Rice,43224.0,93494.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Sugarcane,1439.0,94659.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Urad,1035.0,482.0
-Uttar Pradesh,Kaushambi,2014,Rabi,Maize,458.0,1096.0
-Uttar Pradesh,Kaushambi,2014,Rabi,Wheat,70882.0,108449.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Maize,94.0,167.0
-Uttar Pradesh,Kaushambi,2014,Kharif,Urad,351.0,78.0
 Uttar Pradesh,Kheri,2012,Kharif,Maize,8717.0,8647.0
 Uttar Pradesh,Kheri,2012,Kharif,Rice,183167.0,469457.0
 Uttar Pradesh,Kheri,2012,Kharif,Sugarcane,238233.0,14359732.0
@@ -1849,72 +645,6 @@ Uttar Pradesh,Kheri,2014,Rabi,Wheat,185828.0,498172.0
 Uttar Pradesh,Kheri,2014,Kharif,Maize,1695.0,3014.0
 Uttar Pradesh,Kheri,2014,Kharif,Rice,1822.0,4963.0
 Uttar Pradesh,Kheri,2014,Kharif,Urad,201.0,84.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Maize,3091.0,6587.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Rice,132485.0,327370.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Sugarcane,70220.0,3989900.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Urad,22.0,14.0
-Uttar Pradesh,Kushi nagar,2012,Rabi,Maize,1417.0,4437.0
-Uttar Pradesh,Kushi nagar,2012,Rabi,Wheat,113917.0,330929.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Maize,1527.0,2820.0
-Uttar Pradesh,Kushi nagar,2012,Kharif,Urad,125.0,86.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Maize,2553.0,6852.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Rice,122607.0,320863.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Sugarcane,99104.0,5923248.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Urad,17.0,8.0
-Uttar Pradesh,Kushi nagar,2013,Rabi,Maize,3095.0,10997.0
-Uttar Pradesh,Kushi nagar,2013,Rabi,Wheat,115703.0,351737.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Maize,1715.0,3150.0
-Uttar Pradesh,Kushi nagar,2013,Kharif,Urad,88.0,51.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Maize,2551.0,6204.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Rice,118425.0,253666.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Sugarcane,70102.0,4217897.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Urad,26.0,14.0
-Uttar Pradesh,Kushi nagar,2014,Rabi,Maize,1278.0,4608.0
-Uttar Pradesh,Kushi nagar,2014,Rabi,Wheat,116559.0,193954.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Maize,1450.0,2578.0
-Uttar Pradesh,Kushi nagar,2014,Kharif,Urad,102.0,55.0
-Uttar Pradesh,Lalitpur,2012,Kharif,Maize,25280.0,33092.0
-Uttar Pradesh,Lalitpur,2012,Kharif,Rice,1315.0,1427.0
-Uttar Pradesh,Lalitpur,2012,Kharif,Sugarcane,37.0,1375.0
-Uttar Pradesh,Lalitpur,2012,Kharif,Urad,158317.0,122221.0
-Uttar Pradesh,Lalitpur,2012,Rabi,Wheat,163229.0,437611.0
-Uttar Pradesh,Lalitpur,2012,Kharif,Urad,67.0,46.0
-Uttar Pradesh,Lalitpur,2013,Kharif,Maize,26120.0,14679.0
-Uttar Pradesh,Lalitpur,2013,Kharif,Rice,1355.0,963.0
-Uttar Pradesh,Lalitpur,2013,Kharif,Sugarcane,56.0,2249.0
-Uttar Pradesh,Lalitpur,2013,Kharif,Urad,118208.0,30025.0
-Uttar Pradesh,Lalitpur,2013,Rabi,Wheat,178578.0,372871.0
-Uttar Pradesh,Lalitpur,2013,Kharif,Urad,59.0,34.0
-Uttar Pradesh,Lalitpur,2014,Kharif,Maize,20987.0,20903.0
-Uttar Pradesh,Lalitpur,2014,Kharif,Rice,962.0,750.0
-Uttar Pradesh,Lalitpur,2014,Kharif,Sugarcane,52.0,2102.0
-Uttar Pradesh,Lalitpur,2014,Kharif,Urad,142838.0,104272.0
-Uttar Pradesh,Lalitpur,2014,Rabi,Maize,1.0,2.0
-Uttar Pradesh,Lalitpur,2014,Rabi,Wheat,173401.0,367957.0
-Uttar Pradesh,Lalitpur,2014,Kharif,Urad,148.0,80.0
-Uttar Pradesh,Lucknow,2012,Kharif,Maize,1311.0,1907.0
-Uttar Pradesh,Lucknow,2012,Kharif,Rice,51138.0,104833.0
-Uttar Pradesh,Lucknow,2012,Kharif,Sugarcane,264.0,16191.0
-Uttar Pradesh,Lucknow,2012,Kharif,Urad,6030.0,1857.0
-Uttar Pradesh,Lucknow,2012,Rabi,Wheat,83388.0,239490.0
-Uttar Pradesh,Lucknow,2012,Kharif,Maize,130.0,240.0
-Uttar Pradesh,Lucknow,2012,Kharif,Urad,1513.0,820.0
-Uttar Pradesh,Lucknow,2013,Kharif,Maize,1253.0,2106.0
-Uttar Pradesh,Lucknow,2013,Kharif,Rice,52159.0,105674.0
-Uttar Pradesh,Lucknow,2013,Kharif,Sugarcane,202.0,12667.0
-Uttar Pradesh,Lucknow,2013,Kharif,Urad,5614.0,1589.0
-Uttar Pradesh,Lucknow,2013,Rabi,Maize,10.0,35.0
-Uttar Pradesh,Lucknow,2013,Rabi,Wheat,81363.0,241811.0
-Uttar Pradesh,Lucknow,2013,Kharif,Maize,103.0,189.0
-Uttar Pradesh,Lucknow,2013,Kharif,Urad,980.0,511.0
-Uttar Pradesh,Lucknow,2014,Kharif,Maize,1431.0,1069.0
-Uttar Pradesh,Lucknow,2014,Kharif,Rice,54126.0,125843.0
-Uttar Pradesh,Lucknow,2014,Kharif,Sugarcane,195.0,12853.0
-Uttar Pradesh,Lucknow,2014,Kharif,Urad,5342.0,2708.0
-Uttar Pradesh,Lucknow,2014,Rabi,Maize,21.0,50.0
-Uttar Pradesh,Lucknow,2014,Rabi,Wheat,79315.0,144512.0
-Uttar Pradesh,Lucknow,2014,Kharif,Maize,129.0,229.0
-Uttar Pradesh,Lucknow,2014,Kharif,Urad,957.0,399.0
 Uttar Pradesh,Maharajganj,2012,Kharif,Maize,59.0,117.0
 Uttar Pradesh,Maharajganj,2012,Kharif,Rice,164762.0,405150.0
 Uttar Pradesh,Maharajganj,2012,Kharif,Sugarcane,18611.0,1130283.0
@@ -1942,22 +672,6 @@ Uttar Pradesh,Maharajganj,2014,Rabi,Wheat,152333.0,361486.0
 Uttar Pradesh,Maharajganj,2014,Kharif,Maize,380.0,676.0
 Uttar Pradesh,Maharajganj,2014,Kharif,Rice,110.0,270.0
 Uttar Pradesh,Maharajganj,2014,Kharif,Urad,65.0,35.0
-Uttar Pradesh,Mahoba,2012,Kharif,Maize,8.0,15.0
-Uttar Pradesh,Mahoba,2012,Kharif,Rice,56.0,105.0
-Uttar Pradesh,Mahoba,2012,Kharif,Sugarcane,2487.0,92402.0
-Uttar Pradesh,Mahoba,2012,Kharif,Urad,48617.0,26885.0
-Uttar Pradesh,Mahoba,2012,Rabi,Wheat,71221.0,140868.0
-Uttar Pradesh,Mahoba,2013,Kharif,Maize,5.0,9.0
-Uttar Pradesh,Mahoba,2013,Kharif,Rice,48.0,86.0
-Uttar Pradesh,Mahoba,2013,Kharif,Sugarcane,3617.0,161568.0
-Uttar Pradesh,Mahoba,2013,Kharif,Urad,45645.0,17436.0
-Uttar Pradesh,Mahoba,2013,Rabi,Maize,1392.0,4946.0
-Uttar Pradesh,Mahoba,2013,Rabi,Wheat,74888.0,129180.0
-Uttar Pradesh,Mahoba,2014,Kharif,Maize,18.0,32.0
-Uttar Pradesh,Mahoba,2014,Kharif,Rice,12.0,19.0
-Uttar Pradesh,Mahoba,2014,Kharif,Sugarcane,2545.0,102932.0
-Uttar Pradesh,Mahoba,2014,Kharif,Urad,50433.0,15634.0
-Uttar Pradesh,Mahoba,2014,Rabi,Wheat,69598.0,67961.0
 Uttar Pradesh,Mainpuri,2012,Kharif,Maize,41509.0,111618.0
 Uttar Pradesh,Mainpuri,2012,Kharif,Rice,59963.0,157943.0
 Uttar Pradesh,Mainpuri,2012,Kharif,Sugarcane,555.0,25170.0
@@ -1983,45 +697,6 @@ Uttar Pradesh,Mainpuri,2014,Rabi,Wheat,149855.0,349312.0
 Uttar Pradesh,Mainpuri,2014,Kharif,Maize,1024.0,1821.0
 Uttar Pradesh,Mainpuri,2014,Kharif,Rice,63.0,164.0
 Uttar Pradesh,Mainpuri,2014,Kharif,Urad,1260.0,1385.0
-Uttar Pradesh,Mathura,2012,Kharif,Maize,153.0,427.0
-Uttar Pradesh,Mathura,2012,Kharif,Rice,48596.0,120081.0
-Uttar Pradesh,Mathura,2012,Kharif,Sugarcane,856.0,38821.0
-Uttar Pradesh,Mathura,2012,Kharif,Urad,173.0,115.0
-Uttar Pradesh,Mathura,2012,Rabi,Wheat,196974.0,735895.0
-Uttar Pradesh,Mathura,2012,Kharif,Maize,13.0,24.0
-Uttar Pradesh,Mathura,2013,Kharif,Maize,145.0,393.0
-Uttar Pradesh,Mathura,2013,Kharif,Rice,52654.0,126580.0
-Uttar Pradesh,Mathura,2013,Kharif,Sugarcane,585.0,28075.0
-Uttar Pradesh,Mathura,2013,Kharif,Urad,150.0,67.0
-Uttar Pradesh,Mathura,2013,Rabi,Wheat,194364.0,677553.0
-Uttar Pradesh,Mathura,2013,Kharif,Maize,38.0,70.0
-Uttar Pradesh,Mathura,2014,Kharif,Maize,197.0,512.0
-Uttar Pradesh,Mathura,2014,Kharif,Rice,49400.0,114756.0
-Uttar Pradesh,Mathura,2014,Kharif,Sugarcane,990.0,41691.0
-Uttar Pradesh,Mathura,2014,Kharif,Urad,215.0,95.0
-Uttar Pradesh,Mathura,2014,Rabi,Wheat,194214.0,407849.0
-Uttar Pradesh,Mathura,2014,Kharif,Maize,56.0,100.0
-Uttar Pradesh,Mau,2012,Kharif,Maize,275.0,488.0
-Uttar Pradesh,Mau,2012,Kharif,Rice,84412.0,180557.0
-Uttar Pradesh,Mau,2012,Kharif,Sugarcane,7161.0,342783.0
-Uttar Pradesh,Mau,2012,Kharif,Urad,3.0,2.0
-Uttar Pradesh,Mau,2012,Rabi,Wheat,94885.0,315208.0
-Uttar Pradesh,Mau,2012,Kharif,Maize,183.0,338.0
-Uttar Pradesh,Mau,2012,Kharif,Urad,16.0,11.0
-Uttar Pradesh,Mau,2013,Kharif,Maize,245.0,344.0
-Uttar Pradesh,Mau,2013,Kharif,Rice,88001.0,184626.0
-Uttar Pradesh,Mau,2013,Kharif,Sugarcane,6662.0,341254.0
-Uttar Pradesh,Mau,2013,Rabi,Maize,39.0,139.0
-Uttar Pradesh,Mau,2013,Rabi,Wheat,93556.0,285626.0
-Uttar Pradesh,Mau,2013,Kharif,Maize,192.0,353.0
-Uttar Pradesh,Mau,2013,Kharif,Urad,18.0,10.0
-Uttar Pradesh,Mau,2014,Kharif,Maize,316.0,493.0
-Uttar Pradesh,Mau,2014,Kharif,Rice,91396.0,160583.0
-Uttar Pradesh,Mau,2014,Kharif,Sugarcane,6411.0,332115.0
-Uttar Pradesh,Mau,2014,Rabi,Maize,8.0,12.0
-Uttar Pradesh,Mau,2014,Rabi,Wheat,95097.0,198467.0
-Uttar Pradesh,Mau,2014,Kharif,Maize,199.0,354.0
-Uttar Pradesh,Mau,2014,Kharif,Urad,17.0,9.0
 Uttar Pradesh,Meerut,2012,Kharif,Maize,244.0,579.0
 Uttar Pradesh,Meerut,2012,Kharif,Rice,16117.0,44273.0
 Uttar Pradesh,Meerut,2012,Kharif,Sugarcane,132541.0,9023391.0
@@ -2047,28 +722,6 @@ Uttar Pradesh,Meerut,2014,Rabi,Wheat,76072.0,245180.0
 Uttar Pradesh,Meerut,2014,Kharif,Maize,67.0,119.0
 Uttar Pradesh,Meerut,2014,Kharif,Rice,162.0,480.0
 Uttar Pradesh,Meerut,2014,Kharif,Urad,101.0,54.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Maize,1216.0,1168.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Rice,89158.0,208630.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Sugarcane,1444.0,78328.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Urad,695.0,593.0
-Uttar Pradesh,Mirzapur,2012,Rabi,Maize,17.0,53.0
-Uttar Pradesh,Mirzapur,2012,Rabi,Wheat,96784.0,253905.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Maize,3.0,5.0
-Uttar Pradesh,Mirzapur,2012,Kharif,Urad,7.0,5.0
-Uttar Pradesh,Mirzapur,2013,Kharif,Maize,1188.0,971.0
-Uttar Pradesh,Mirzapur,2013,Kharif,Rice,81099.0,186771.0
-Uttar Pradesh,Mirzapur,2013,Kharif,Sugarcane,1718.0,109528.0
-Uttar Pradesh,Mirzapur,2013,Kharif,Urad,704.0,627.0
-Uttar Pradesh,Mirzapur,2013,Rabi,Maize,76.0,270.0
-Uttar Pradesh,Mirzapur,2013,Rabi,Wheat,97530.0,248407.0
-Uttar Pradesh,Mirzapur,2013,Kharif,Urad,6.0,3.0
-Uttar Pradesh,Mirzapur,2014,Kharif,Maize,1343.0,1530.0
-Uttar Pradesh,Mirzapur,2014,Kharif,Rice,81132.0,187821.0
-Uttar Pradesh,Mirzapur,2014,Kharif,Sugarcane,1596.0,104987.0
-Uttar Pradesh,Mirzapur,2014,Kharif,Urad,656.0,461.0
-Uttar Pradesh,Mirzapur,2014,Rabi,Maize,11.0,26.0
-Uttar Pradesh,Mirzapur,2014,Rabi,Wheat,98339.0,174733.0
-Uttar Pradesh,Mirzapur,2014,Kharif,Urad,6.0,3.0
 Uttar Pradesh,Moradabad,2012,Kharif,Maize,135.0,121.0
 Uttar Pradesh,Moradabad,2012,Kharif,Rice,90672.0,215799.0
 Uttar Pradesh,Moradabad,2012,Kharif,Sugarcane,53415.0,3390571.0
@@ -2094,203 +747,6 @@ Uttar Pradesh,Moradabad,2014,Rabi,Wheat,122232.0,196916.0
 Uttar Pradesh,Moradabad,2014,Kharif,Maize,49.0,87.0
 Uttar Pradesh,Moradabad,2014,Kharif,Rice,552.0,1293.0
 Uttar Pradesh,Moradabad,2014,Kharif,Urad,8.0,4.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Maize,18.0,24.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Rice,14646.0,36644.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Sugarcane,172512.0,12320117.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Urad,859.0,570.0
-Uttar Pradesh,Muzaffarnagar,2012,Rabi,Wheat,81418.0,297013.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Maize,5.0,9.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Rice,2.0,5.0
-Uttar Pradesh,Muzaffarnagar,2012,Kharif,Urad,730.0,491.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Maize,24.0,29.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Rice,11064.0,25857.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Sugarcane,172978.0,12617707.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Urad,678.0,302.0
-Uttar Pradesh,Muzaffarnagar,2013,Rabi,Wheat,75244.0,279155.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Maize,1.0,2.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Rice,1.0,2.0
-Uttar Pradesh,Muzaffarnagar,2013,Kharif,Urad,444.0,313.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Maize,31.0,44.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Rice,10667.0,25729.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Sugarcane,164216.0,11803189.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Urad,618.0,525.0
-Uttar Pradesh,Muzaffarnagar,2014,Rabi,Wheat,78843.0,221470.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Maize,4.0,7.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Rice,109.0,263.0
-Uttar Pradesh,Muzaffarnagar,2014,Kharif,Urad,485.0,318.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Maize,117.0,245.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Rice,152957.0,423844.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Sugarcane,55380.0,3636251.0
-Uttar Pradesh,Pilibhit,2012,Rabi,Wheat,136892.0,494317.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Maize,80.0,148.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Rice,8583.0,23783.0
-Uttar Pradesh,Pilibhit,2012,Kharif,Urad,89.0,62.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Maize,281.0,570.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Rice,135908.0,380135.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Sugarcane,74784.0,4430802.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Urad,105.0,80.0
-Uttar Pradesh,Pilibhit,2013,Rabi,Wheat,143500.0,525354.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Maize,49.0,90.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Rice,10502.0,29374.0
-Uttar Pradesh,Pilibhit,2013,Kharif,Urad,52.0,30.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Maize,476.0,935.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Rice,118036.0,309963.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Sugarcane,93620.0,6500973.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Urad,51.0,42.0
-Uttar Pradesh,Pilibhit,2014,Rabi,Wheat,144784.0,371371.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Maize,108.0,192.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Rice,10953.0,28763.0
-Uttar Pradesh,Pilibhit,2014,Kharif,Urad,69.0,37.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Maize,766.0,872.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Rice,99174.0,240993.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Sugarcane,1039.0,63521.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Urad,6061.0,4503.0
-Uttar Pradesh,Pratapgarh,2012,Rabi,Wheat,146677.0,413042.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Maize,19.0,35.0
-Uttar Pradesh,Pratapgarh,2012,Kharif,Urad,4758.0,2779.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Maize,538.0,582.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Rice,99245.0,237791.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Sugarcane,1000.0,68229.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Urad,5370.0,3603.0
-Uttar Pradesh,Pratapgarh,2013,Rabi,Maize,3.0,11.0
-Uttar Pradesh,Pratapgarh,2013,Rabi,Wheat,147814.0,415653.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Maize,22.0,40.0
-Uttar Pradesh,Pratapgarh,2013,Kharif,Urad,4468.0,2328.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Maize,572.0,1017.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Rice,104143.0,235676.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Sugarcane,846.0,55651.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Urad,5573.0,3678.0
-Uttar Pradesh,Pratapgarh,2014,Rabi,Wheat,138562.0,191903.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Maize,35.0,62.0
-Uttar Pradesh,Pratapgarh,2014,Kharif,Urad,4457.0,722.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Maize,51.0,74.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Rice,84448.0,204618.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Sugarcane,2295.0,118266.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Urad,12677.0,5527.0
-Uttar Pradesh,Rae bareli,2012,Rabi,Wheat,131752.0,373644.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Maize,1.0,2.0
-Uttar Pradesh,Rae bareli,2012,Kharif,Urad,2249.0,1111.0
-Uttar Pradesh,Rae bareli,2013,Kharif,Maize,36.0,61.0
-Uttar Pradesh,Rae bareli,2013,Kharif,Rice,89513.0,219665.0
-Uttar Pradesh,Rae bareli,2013,Kharif,Sugarcane,2146.0,114193.0
-Uttar Pradesh,Rae bareli,2013,Kharif,Urad,13157.0,4868.0
-Uttar Pradesh,Rae bareli,2013,Rabi,Maize,1.0,4.0
-Uttar Pradesh,Rae bareli,2013,Rabi,Wheat,134767.0,400393.0
-Uttar Pradesh,Rae bareli,2013,Kharif,Urad,1083.0,442.0
-Uttar Pradesh,Rae bareli,2014,Kharif,Maize,21.0,30.0
-Uttar Pradesh,Rae bareli,2014,Kharif,Rice,104251.0,246449.0
-Uttar Pradesh,Rae bareli,2014,Kharif,Sugarcane,2306.0,125317.0
-Uttar Pradesh,Rae bareli,2014,Kharif,Urad,13639.0,2564.0
-Uttar Pradesh,Rae bareli,2014,Rabi,Maize,139.0,333.0
-Uttar Pradesh,Rae bareli,2014,Rabi,Wheat,167432.0,270235.0
-Uttar Pradesh,Rae bareli,2014,Kharif,Urad,2412.0,1160.0
-Uttar Pradesh,Rampur,2012,Kharif,Maize,75.0,67.0
-Uttar Pradesh,Rampur,2012,Kharif,Rice,133026.0,302368.0
-Uttar Pradesh,Rampur,2012,Kharif,Sugarcane,24650.0,1449420.0
-Uttar Pradesh,Rampur,2012,Kharif,Urad,2310.0,1478.0
-Uttar Pradesh,Rampur,2012,Rabi,Wheat,140318.0,487184.0
-Uttar Pradesh,Rampur,2012,Kharif,Maize,91.0,168.0
-Uttar Pradesh,Rampur,2012,Kharif,Rice,4516.0,10265.0
-Uttar Pradesh,Rampur,2013,Kharif,Maize,101.0,157.0
-Uttar Pradesh,Rampur,2013,Kharif,Rice,136970.0,306950.0
-Uttar Pradesh,Rampur,2013,Kharif,Sugarcane,22271.0,1389354.0
-Uttar Pradesh,Rampur,2013,Kharif,Urad,6307.0,4301.0
-Uttar Pradesh,Rampur,2013,Rabi,Maize,299.0,1063.0
-Uttar Pradesh,Rampur,2013,Rabi,Wheat,147277.0,508106.0
-Uttar Pradesh,Rampur,2013,Kharif,Maize,12.0,22.0
-Uttar Pradesh,Rampur,2013,Kharif,Rice,6050.0,13558.0
-Uttar Pradesh,Rampur,2014,Kharif,Maize,45.0,85.0
-Uttar Pradesh,Rampur,2014,Kharif,Rice,124076.0,280412.0
-Uttar Pradesh,Rampur,2014,Kharif,Sugarcane,28625.0,1784483.0
-Uttar Pradesh,Rampur,2014,Kharif,Urad,5836.0,5696.0
-Uttar Pradesh,Rampur,2014,Rabi,Maize,2.0,5.0
-Uttar Pradesh,Rampur,2014,Rabi,Wheat,147846.0,264644.0
-Uttar Pradesh,Rampur,2014,Kharif,Maize,42.0,75.0
-Uttar Pradesh,Rampur,2014,Kharif,Rice,8614.0,19468.0
-Uttar Pradesh,Rampur,2014,Kharif,Urad,2.0,1.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Maize,7758.0,10233.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Rice,54042.0,141428.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Sugarcane,137383.0,8557312.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Urad,760.0,504.0
-Uttar Pradesh,Saharanpur,2012,Rabi,Wheat,110575.0,374739.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Maize,20.0,37.0
-Uttar Pradesh,Saharanpur,2012,Kharif,Urad,2176.0,1136.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Maize,7205.0,8574.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Rice,57786.0,141345.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Sugarcane,136450.0,8432610.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Urad,858.0,383.0
-Uttar Pradesh,Saharanpur,2013,Rabi,Wheat,109144.0,378184.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Maize,6.0,11.0
-Uttar Pradesh,Saharanpur,2013,Kharif,Urad,2176.0,1253.0
-Uttar Pradesh,Saharanpur,2014,Kharif,Maize,7497.0,10608.0
-Uttar Pradesh,Saharanpur,2014,Kharif,Rice,62552.0,155629.0
-Uttar Pradesh,Saharanpur,2014,Kharif,Sugarcane,124052.0,8169569.0
-Uttar Pradesh,Saharanpur,2014,Kharif,Urad,1149.0,977.0
-Uttar Pradesh,Saharanpur,2014,Rabi,Wheat,118844.0,244224.0
-Uttar Pradesh,Saharanpur,2014,Kharif,Urad,1269.0,832.0
-Uttar Pradesh,Sambhal,2012,Kharif,Maize,4504.0,4050.0
-Uttar Pradesh,Sambhal,2012,Kharif,Rice,35823.0,86262.0
-Uttar Pradesh,Sambhal,2012,Kharif,Sugarcane,29444.0,1753685.0
-Uttar Pradesh,Sambhal,2012,Kharif,Urad,14713.0,13286.0
-Uttar Pradesh,Sambhal,2012,Rabi,Wheat,140493.0,450702.0
-Uttar Pradesh,Sambhal,2012,Kharif,Maize,1442.0,2663.0
-Uttar Pradesh,Sambhal,2013,Kharif,Maize,3714.0,6436.0
-Uttar Pradesh,Sambhal,2013,Kharif,Rice,40134.0,92388.0
-Uttar Pradesh,Sambhal,2013,Kharif,Sugarcane,28638.0,1762153.0
-Uttar Pradesh,Sambhal,2013,Kharif,Urad,14949.0,12467.0
-Uttar Pradesh,Sambhal,2013,Rabi,Wheat,139875.0,492500.0
-Uttar Pradesh,Sambhal,2013,Kharif,Maize,1474.0,2708.0
-Uttar Pradesh,Sambhal,2013,Kharif,Urad,10.0,6.0
-Uttar Pradesh,Sambhal,2014,Kharif,Maize,4160.0,8836.0
-Uttar Pradesh,Sambhal,2014,Kharif,Rice,35060.0,76746.0
-Uttar Pradesh,Sambhal,2014,Kharif,Sugarcane,28914.0,1833148.0
-Uttar Pradesh,Sambhal,2014,Kharif,Urad,13077.0,10998.0
-Uttar Pradesh,Sambhal,2014,Rabi,Maize,222.0,531.0
-Uttar Pradesh,Sambhal,2014,Rabi,Wheat,143456.0,283613.0
-Uttar Pradesh,Sambhal,2014,Kharif,Maize,1728.0,3072.0
-Uttar Pradesh,Sambhal,2014,Kharif,Urad,67.0,36.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Maize,1586.0,2929.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Rice,87731.0,200202.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Sugarcane,3981.0,240229.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Urad,3.0,2.0
-Uttar Pradesh,Sant kabeer nagar,2012,Rabi,Wheat,91860.0,274110.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Maize,19.0,35.0
-Uttar Pradesh,Sant kabeer nagar,2012,Kharif,Rice,65.0,148.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Maize,1773.0,3257.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Rice,89987.0,208230.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Sugarcane,3031.0,186601.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Urad,13.0,6.0
-Uttar Pradesh,Sant kabeer nagar,2013,Rabi,Maize,151.0,536.0
-Uttar Pradesh,Sant kabeer nagar,2013,Rabi,Wheat,92210.0,304201.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Maize,34.0,63.0
-Uttar Pradesh,Sant kabeer nagar,2013,Kharif,Rice,67.0,155.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Maize,1425.0,2534.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Rice,90918.0,162561.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Sugarcane,3606.0,226168.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Urad,3.0,2.0
-Uttar Pradesh,Sant kabeer nagar,2014,Rabi,Wheat,90522.0,224042.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Maize,22.0,39.0
-Uttar Pradesh,Sant kabeer nagar,2014,Kharif,Rice,60.0,107.0
-Uttar Pradesh,Sant ravidas nagar,2012,Kharif,Maize,746.0,716.0
-Uttar Pradesh,Sant ravidas nagar,2012,Kharif,Rice,23422.0,59750.0
-Uttar Pradesh,Sant ravidas nagar,2012,Kharif,Sugarcane,1003.0,54407.0
-Uttar Pradesh,Sant ravidas nagar,2012,Kharif,Urad,552.0,471.0
-Uttar Pradesh,Sant ravidas nagar,2012,Rabi,Wheat,48269.0,137416.0
-Uttar Pradesh,Sant ravidas nagar,2012,Kharif,Urad,12.0,8.0
-Uttar Pradesh,Sant ravidas nagar,2013,Kharif,Maize,651.0,739.0
-Uttar Pradesh,Sant ravidas nagar,2013,Kharif,Rice,27721.0,70938.0
-Uttar Pradesh,Sant ravidas nagar,2013,Kharif,Sugarcane,946.0,60310.0
-Uttar Pradesh,Sant ravidas nagar,2013,Kharif,Urad,389.0,346.0
-Uttar Pradesh,Sant ravidas nagar,2013,Rabi,Maize,4.0,14.0
-Uttar Pradesh,Sant ravidas nagar,2013,Rabi,Wheat,48216.0,131630.0
-Uttar Pradesh,Sant ravidas nagar,2013,Kharif,Urad,24.0,14.0
-Uttar Pradesh,Sant ravidas nagar,2014,Kharif,Maize,501.0,530.0
-Uttar Pradesh,Sant ravidas nagar,2014,Kharif,Rice,27981.0,61950.0
-Uttar Pradesh,Sant ravidas nagar,2014,Kharif,Sugarcane,1100.0,72359.0
-Uttar Pradesh,Sant ravidas nagar,2014,Kharif,Urad,803.0,564.0
-Uttar Pradesh,Sant ravidas nagar,2014,Rabi,Maize,6.0,15.0
-Uttar Pradesh,Sant ravidas nagar,2014,Rabi,Wheat,48033.0,74114.0
-Uttar Pradesh,Sant ravidas nagar,2014,Kharif,Urad,10.0,6.0
 Uttar Pradesh,Shahjahanpur,2012,Kharif,Maize,1695.0,3212.0
 Uttar Pradesh,Shahjahanpur,2012,Kharif,Rice,215646.0,579441.0
 Uttar Pradesh,Shahjahanpur,2012,Kharif,Sugarcane,46086.0,2829680.0
@@ -2316,72 +772,6 @@ Uttar Pradesh,Shahjahanpur,2014,Rabi,Wheat,260462.0,517017.0
 Uttar Pradesh,Shahjahanpur,2014,Kharif,Maize,165.0,293.0
 Uttar Pradesh,Shahjahanpur,2014,Kharif,Rice,5379.0,15088.0
 Uttar Pradesh,Shahjahanpur,2014,Kharif,Urad,285.0,154.0
-Uttar Pradesh,Shamli,2012,Kharif,Maize,38.0,50.0
-Uttar Pradesh,Shamli,2012,Kharif,Rice,20766.0,53639.0
-Uttar Pradesh,Shamli,2012,Kharif,Sugarcane,65987.0,4689300.0
-Uttar Pradesh,Shamli,2012,Kharif,Urad,201.0,133.0
-Uttar Pradesh,Shamli,2012,Rabi,Wheat,50033.0,188124.0
-Uttar Pradesh,Shamli,2012,Kharif,Maize,33.0,61.0
-Uttar Pradesh,Shamli,2012,Kharif,Rice,25.0,65.0
-Uttar Pradesh,Shamli,2012,Kharif,Urad,590.0,331.0
-Uttar Pradesh,Shamli,2013,Kharif,Maize,79.0,94.0
-Uttar Pradesh,Shamli,2013,Kharif,Rice,19778.0,52234.0
-Uttar Pradesh,Shamli,2013,Kharif,Sugarcane,65837.0,5045221.0
-Uttar Pradesh,Shamli,2013,Kharif,Urad,437.0,195.0
-Uttar Pradesh,Shamli,2013,Rabi,Wheat,46385.0,173665.0
-Uttar Pradesh,Shamli,2013,Kharif,Rice,78.0,206.0
-Uttar Pradesh,Shamli,2013,Kharif,Urad,661.0,396.0
-Uttar Pradesh,Shamli,2014,Kharif,Maize,67.0,95.0
-Uttar Pradesh,Shamli,2014,Kharif,Rice,22666.0,59952.0
-Uttar Pradesh,Shamli,2014,Kharif,Sugarcane,62990.0,4966384.0
-Uttar Pradesh,Shamli,2014,Kharif,Urad,424.0,360.0
-Uttar Pradesh,Shamli,2014,Rabi,Wheat,49296.0,149367.0
-Uttar Pradesh,Shamli,2014,Kharif,Rice,257.0,680.0
-Uttar Pradesh,Shamli,2014,Kharif,Urad,577.0,379.0
-Uttar Pradesh,Shravasti,2012,Kharif,Maize,14629.0,11147.0
-Uttar Pradesh,Shravasti,2012,Kharif,Rice,73500.0,163832.0
-Uttar Pradesh,Shravasti,2012,Kharif,Sugarcane,7126.0,394448.0
-Uttar Pradesh,Shravasti,2012,Kharif,Urad,461.0,306.0
-Uttar Pradesh,Shravasti,2012,Rabi,Maize,8.0,25.0
-Uttar Pradesh,Shravasti,2012,Rabi,Wheat,63787.0,171523.0
-Uttar Pradesh,Shravasti,2012,Kharif,Maize,95.0,175.0
-Uttar Pradesh,Shravasti,2012,Kharif,Urad,31.0,21.0
-Uttar Pradesh,Shravasti,2013,Kharif,Maize,19101.0,15930.0
-Uttar Pradesh,Shravasti,2013,Kharif,Rice,75337.0,155119.0
-Uttar Pradesh,Shravasti,2013,Kharif,Sugarcane,8308.0,453832.0
-Uttar Pradesh,Shravasti,2013,Kharif,Urad,545.0,243.0
-Uttar Pradesh,Shravasti,2013,Rabi,Maize,16.0,57.0
-Uttar Pradesh,Shravasti,2013,Rabi,Wheat,70928.0,216401.0
-Uttar Pradesh,Shravasti,2013,Kharif,Maize,164.0,301.0
-Uttar Pradesh,Shravasti,2013,Kharif,Urad,26.0,15.0
-Uttar Pradesh,Shravasti,2014,Kharif,Maize,10870.0,8381.0
-Uttar Pradesh,Shravasti,2014,Kharif,Rice,79949.0,173889.0
-Uttar Pradesh,Shravasti,2014,Kharif,Sugarcane,7179.0,379471.0
-Uttar Pradesh,Shravasti,2014,Kharif,Urad,334.0,179.0
-Uttar Pradesh,Shravasti,2014,Rabi,Maize,2.0,5.0
-Uttar Pradesh,Shravasti,2014,Rabi,Wheat,68165.0,182410.0
-Uttar Pradesh,Shravasti,2014,Kharif,Maize,119.0,212.0
-Uttar Pradesh,Shravasti,2014,Kharif,Urad,11.0,6.0
-Uttar Pradesh,Siddharth nagar,2012,Kharif,Maize,575.0,1062.0
-Uttar Pradesh,Siddharth nagar,2012,Kharif,Rice,160991.0,411332.0
-Uttar Pradesh,Siddharth nagar,2012,Kharif,Sugarcane,2231.0,134628.0
-Uttar Pradesh,Siddharth nagar,2012,Kharif,Urad,224.0,149.0
-Uttar Pradesh,Siddharth nagar,2012,Rabi,Wheat,159883.0,567105.0
-Uttar Pradesh,Siddharth nagar,2012,Kharif,Maize,97.0,179.0
-Uttar Pradesh,Siddharth nagar,2013,Kharif,Maize,626.0,1150.0
-Uttar Pradesh,Siddharth nagar,2013,Kharif,Rice,173903.0,477016.0
-Uttar Pradesh,Siddharth nagar,2013,Kharif,Sugarcane,2114.0,130146.0
-Uttar Pradesh,Siddharth nagar,2013,Kharif,Urad,329.0,147.0
-Uttar Pradesh,Siddharth nagar,2013,Rabi,Maize,46.0,163.0
-Uttar Pradesh,Siddharth nagar,2013,Rabi,Wheat,157897.0,596693.0
-Uttar Pradesh,Siddharth nagar,2013,Kharif,Maize,6.0,11.0
-Uttar Pradesh,Siddharth nagar,2014,Kharif,Maize,644.0,1145.0
-Uttar Pradesh,Siddharth nagar,2014,Kharif,Rice,170404.0,414082.0
-Uttar Pradesh,Siddharth nagar,2014,Kharif,Sugarcane,2377.0,149086.0
-Uttar Pradesh,Siddharth nagar,2014,Kharif,Urad,226.0,121.0
-Uttar Pradesh,Siddharth nagar,2014,Rabi,Maize,13.0,31.0
-Uttar Pradesh,Siddharth nagar,2014,Rabi,Wheat,161544.0,408222.0
-Uttar Pradesh,Siddharth nagar,2014,Kharif,Maize,6.0,11.0
 Uttar Pradesh,Sitapur,2012,Kharif,Maize,12925.0,12162.0
 Uttar Pradesh,Sitapur,2012,Kharif,Rice,162205.0,388481.0
 Uttar Pradesh,Sitapur,2012,Kharif,Sugarcane,133669.0,8443069.0
@@ -2409,48 +799,6 @@ Uttar Pradesh,Sitapur,2014,Rabi,Wheat,208675.0,372484.0
 Uttar Pradesh,Sitapur,2014,Kharif,Maize,227.0,404.0
 Uttar Pradesh,Sitapur,2014,Kharif,Rice,75.0,175.0
 Uttar Pradesh,Sitapur,2014,Kharif,Urad,719.0,299.0
-Uttar Pradesh,Sonbhadra,2012,Kharif,Maize,15340.0,15401.0
-Uttar Pradesh,Sonbhadra,2012,Kharif,Rice,35344.0,73586.0
-Uttar Pradesh,Sonbhadra,2012,Kharif,Sugarcane,185.0,10035.0
-Uttar Pradesh,Sonbhadra,2012,Kharif,Urad,3251.0,2773.0
-Uttar Pradesh,Sonbhadra,2012,Rabi,Wheat,54811.0,117261.0
-Uttar Pradesh,Sonbhadra,2012,Kharif,Maize,1.0,2.0
-Uttar Pradesh,Sonbhadra,2013,Kharif,Maize,13328.0,15500.0
-Uttar Pradesh,Sonbhadra,2013,Kharif,Rice,30842.0,66680.0
-Uttar Pradesh,Sonbhadra,2013,Kharif,Sugarcane,230.0,14663.0
-Uttar Pradesh,Sonbhadra,2013,Kharif,Urad,3107.0,2765.0
-Uttar Pradesh,Sonbhadra,2013,Rabi,Maize,79.0,281.0
-Uttar Pradesh,Sonbhadra,2013,Rabi,Wheat,57853.0,135887.0
-Uttar Pradesh,Sonbhadra,2014,Kharif,Maize,15760.0,16548.0
-Uttar Pradesh,Sonbhadra,2014,Kharif,Rice,29426.0,52290.0
-Uttar Pradesh,Sonbhadra,2014,Kharif,Sugarcane,219.0,14406.0
-Uttar Pradesh,Sonbhadra,2014,Kharif,Urad,2601.0,1829.0
-Uttar Pradesh,Sonbhadra,2014,Rabi,Maize,41.0,98.0
-Uttar Pradesh,Sonbhadra,2014,Rabi,Wheat,57789.0,117617.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Maize,4323.0,5935.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Rice,93861.0,236060.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Sugarcane,9482.0,575975.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Urad,1691.0,1253.0
-Uttar Pradesh,Sultanpur,2012,Rabi,Maize,70.0,219.0
-Uttar Pradesh,Sultanpur,2012,Rabi,Wheat,104661.0,325914.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Maize,304.0,561.0
-Uttar Pradesh,Sultanpur,2012,Kharif,Urad,4070.0,2654.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Maize,4455.0,1853.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Rice,93449.0,227735.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Sugarcane,10192.0,556198.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Urad,1608.0,592.0
-Uttar Pradesh,Sultanpur,2013,Rabi,Maize,77.0,274.0
-Uttar Pradesh,Sultanpur,2013,Rabi,Wheat,104250.0,256247.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Maize,454.0,834.0
-Uttar Pradesh,Sultanpur,2013,Kharif,Urad,4089.0,1901.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Maize,4271.0,3105.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Rice,85103.0,151568.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Sugarcane,10951.0,648825.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Urad,1700.0,889.0
-Uttar Pradesh,Sultanpur,2014,Rabi,Maize,34.0,81.0
-Uttar Pradesh,Sultanpur,2014,Rabi,Wheat,104295.0,238836.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Maize,228.0,405.0
-Uttar Pradesh,Sultanpur,2014,Kharif,Urad,3633.0,2303.0
 Uttar Pradesh,Unnao,2012,Kharif,Maize,28266.0,33354.0
 Uttar Pradesh,Unnao,2012,Kharif,Rice,98269.0,192804.0
 Uttar Pradesh,Unnao,2012,Kharif,Sugarcane,942.0,57771.0
@@ -2477,30 +825,6 @@ Uttar Pradesh,Unnao,2014,Rabi,Wheat,243188.0,488078.0
 Uttar Pradesh,Unnao,2014,Kharif,Maize,1018.0,1810.0
 Uttar Pradesh,Unnao,2014,Kharif,Rice,1.0,2.0
 Uttar Pradesh,Unnao,2014,Kharif,Urad,2280.0,1359.0
-Uttar Pradesh,Varanasi,2012,Kharif,Maize,2880.0,5128.0
-Uttar Pradesh,Varanasi,2012,Kharif,Rice,42757.0,103814.0
-Uttar Pradesh,Varanasi,2012,Kharif,Sugarcane,4163.0,214578.0
-Uttar Pradesh,Varanasi,2012,Kharif,Urad,1723.0,613.0
-Uttar Pradesh,Varanasi,2012,Rabi,Maize,10.0,31.0
-Uttar Pradesh,Varanasi,2012,Rabi,Wheat,69705.0,214609.0
-Uttar Pradesh,Varanasi,2012,Kharif,Maize,31.0,57.0
-Uttar Pradesh,Varanasi,2012,Kharif,Urad,52.0,40.0
-Uttar Pradesh,Varanasi,2013,Kharif,Maize,2906.0,4902.0
-Uttar Pradesh,Varanasi,2013,Kharif,Rice,46938.0,100964.0
-Uttar Pradesh,Varanasi,2013,Kharif,Sugarcane,3901.0,236962.0
-Uttar Pradesh,Varanasi,2013,Kharif,Urad,2549.0,1147.0
-Uttar Pradesh,Varanasi,2013,Rabi,Maize,6.0,21.0
-Uttar Pradesh,Varanasi,2013,Rabi,Wheat,69399.0,188955.0
-Uttar Pradesh,Varanasi,2013,Kharif,Maize,31.0,57.0
-Uttar Pradesh,Varanasi,2013,Kharif,Urad,97.0,79.0
-Uttar Pradesh,Varanasi,2014,Kharif,Maize,2791.0,4446.0
-Uttar Pradesh,Varanasi,2014,Kharif,Rice,43862.0,101848.0
-Uttar Pradesh,Varanasi,2014,Kharif,Sugarcane,3996.0,252707.0
-Uttar Pradesh,Varanasi,2014,Kharif,Urad,2162.0,1431.0
-Uttar Pradesh,Varanasi,2014,Rabi,Maize,22.0,52.0
-Uttar Pradesh,Varanasi,2014,Rabi,Wheat,68617.0,127010.0
-Uttar Pradesh,Varanasi,2014,Kharif,Maize,59.0,105.0
-Uttar Pradesh,Varanasi,2014,Kharif,Urad,90.0,51.0
 West Bengal,24 paraganas north,2012,Kharif,Urad,1937.0,1313.0
 West Bengal,24 paraganas north,2012,Rabi,Maize,56.0,162.0
 West Bengal,24 paraganas north,2012,Rabi,Wheat,7212.0,19859.0
@@ -2654,21 +978,6 @@ West Bengal,Darjeeling,2014,Kharif,Maize,1350.0,4523.0
 West Bengal,Darjeeling,2014,Kharif,Rice,1516.0,3437.0
 West Bengal,Darjeeling,2014,Whole year,Sugarcane,2.0,214.0
 West Bengal,Darjeeling,2014,Rabi,Rice,27135.0,56945.0
-West Bengal,Dinajpur dakshin,2012,Kharif,Urad,713.0,342.0
-West Bengal,Dinajpur dakshin,2012,Rabi,Wheat,12292.0,41020.0
-West Bengal,Dinajpur dakshin,2012,Kharif,Maize,453.0,1842.0
-West Bengal,Dinajpur dakshin,2012,Kharif,Rice,21908.0,68722.0
-West Bengal,Dinajpur dakshin,2012,Rabi,Rice,158532.0,440334.0
-West Bengal,Dinajpur dakshin,2013,Kharif,Urad,683.0,598.0
-West Bengal,Dinajpur dakshin,2013,Rabi,Wheat,12329.0,38285.0
-West Bengal,Dinajpur dakshin,2013,Kharif,Maize,2182.0,10807.0
-West Bengal,Dinajpur dakshin,2013,Kharif,Rice,21560.0,70157.0
-West Bengal,Dinajpur dakshin,2013,Rabi,Rice,157471.0,442904.0
-West Bengal,Dinajpur dakshin,2014,Kharif,Urad,613.0,350.0
-West Bengal,Dinajpur dakshin,2014,Rabi,Wheat,13114.0,41396.0
-West Bengal,Dinajpur dakshin,2014,Kharif,Maize,1858.0,7451.0
-West Bengal,Dinajpur dakshin,2014,Kharif,Rice,16722.0,56152.0
-West Bengal,Dinajpur dakshin,2014,Rabi,Rice,163582.0,462884.0
 West Bengal,Dinajpur uttar,2012,Kharif,Urad,1115.0,757.0
 West Bengal,Dinajpur uttar,2012,Rabi,Maize,14000.0,73500.0
 West Bengal,Dinajpur uttar,2012,Rabi,Urad,644.0,557.0
@@ -2711,20 +1020,6 @@ West Bengal,Hooghly,2014,Kharif,Maize,225.0,455.0
 West Bengal,Hooghly,2014,Kharif,Rice,79654.0,261105.0
 West Bengal,Hooghly,2014,Whole year,Sugarcane,830.0,149289.0
 West Bengal,Hooghly,2014,Rabi,Rice,190221.0,580845.0
-West Bengal,Howrah,2012,Rabi,Wheat,99.0,278.0
-West Bengal,Howrah,2012,Kharif,Maize,87.0,115.0
-West Bengal,Howrah,2012,Kharif,Rice,42165.0,129584.0
-West Bengal,Howrah,2012,Whole year,Sugarcane,40.0,4053.0
-West Bengal,Howrah,2012,Rabi,Rice,67380.0,151869.0
-West Bengal,Howrah,2013,Rabi,Wheat,82.0,198.0
-West Bengal,Howrah,2013,Kharif,Maize,87.0,108.0
-West Bengal,Howrah,2013,Kharif,Rice,42709.0,128178.0
-West Bengal,Howrah,2013,Rabi,Rice,64360.0,142291.0
-West Bengal,Howrah,2014,Rabi,Wheat,106.0,276.0
-West Bengal,Howrah,2014,Kharif,Maize,88.0,112.0
-West Bengal,Howrah,2014,Kharif,Rice,43456.0,135474.0
-West Bengal,Howrah,2014,Whole year,Sugarcane,2.0,186.0
-West Bengal,Howrah,2014,Rabi,Rice,71064.0,176630.0
 West Bengal,Jalpaiguri,2012,Kharif,Urad,1346.0,672.0
 West Bengal,Jalpaiguri,2012,Rabi,Maize,550.0,4180.0
 West Bengal,Jalpaiguri,2012,Rabi,Urad,569.0,371.0
@@ -2770,21 +1065,6 @@ West Bengal,Maldah,2014,Kharif,Maize,6615.0,7396.0
 West Bengal,Maldah,2014,Kharif,Rice,59802.0,243374.0
 West Bengal,Maldah,2014,Whole year,Sugarcane,1945.0,208143.0
 West Bengal,Maldah,2014,Rabi,Rice,141455.0,457341.0
-West Bengal,Medinipur east,2012,Kharif,Urad,112.0,32.0
-West Bengal,Medinipur east,2012,Rabi,Wheat,514.0,1318.0
-West Bengal,Medinipur east,2012,Kharif,Maize,78.0,125.0
-West Bengal,Medinipur east,2012,Kharif,Rice,135070.0,447040.0
-West Bengal,Medinipur east,2012,Rabi,Rice,256014.0,590720.0
-West Bengal,Medinipur east,2013,Kharif,Urad,346.0,69.0
-West Bengal,Medinipur east,2013,Rabi,Wheat,509.0,1336.0
-West Bengal,Medinipur east,2013,Kharif,Maize,103.0,165.0
-West Bengal,Medinipur east,2013,Kharif,Rice,139959.0,476928.0
-West Bengal,Medinipur east,2013,Rabi,Rice,237323.0,376132.0
-West Bengal,Medinipur east,2014,Kharif,Urad,425.0,118.0
-West Bengal,Medinipur east,2014,Rabi,Wheat,524.0,1444.0
-West Bengal,Medinipur east,2014,Kharif,Maize,116.0,185.0
-West Bengal,Medinipur east,2014,Kharif,Rice,159819.0,563332.0
-West Bengal,Medinipur east,2014,Rabi,Rice,254064.0,546260.0
 West Bengal,Medinipur west,2012,Kharif,Urad,73.0,21.0
 West Bengal,Medinipur west,2012,Rabi,Maize,581.0,1336.0
 West Bengal,Medinipur west,2012,Rabi,Urad,940.0,790.0
