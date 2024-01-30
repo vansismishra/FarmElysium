@@ -29,6 +29,7 @@ Developed a novel Hybrid Algorithm, integrating Random Forest, XGBoost, and LSTM
 Evaluation Metrics:
 
 Utilized robust evaluation metrics including RMSE, MAE, MSE, and R^2 to assess algorithmic performance.
+
 Visualization and Comparative Analysis:
 
 Implemented captivating visualizations to portray algorithmic predictions.
