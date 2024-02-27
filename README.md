@@ -35,4 +35,5 @@ Visualization and Comparative Analysis:
 Implemented captivating visualizations to portray algorithmic predictions.
 Conducted a comparative analysis to determine the most effective algorithm for crop yield prediction.
 
-![barplot](https://github.com/vansismishra/FarmElysium/assets/110335770/e4d2fccd-99f9-44ef-8d76-21b5bd32d78b)
+
+![bargraphforcyp](https://github.com/vansismishra/FarmElysium/assets/110335770/baddb820-1401-48dc-8719-75e5fa5c8d31)
